@@ -8,7 +8,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   url: "https://carlykendeigh.github.io/ui-portfolio-template/", // Replace with your actual domain
-  baseUrl: "/ui-portfolio-template/",
+  baseUrl: "/",
 
   organizationName: "carlykendeigh", // Replace with your GitHub org/user name
   projectName: "ui-portfolio-template", // Replace with your repo/project name
