@@ -11,7 +11,7 @@ const config = {
   baseUrl: "/ui-portfolio-template/",
 
   organizationName: "carlykendeigh", // Replace with your GitHub org/user name
-  projectName: "carlyuiportfolio", // Replace with your repo/project name
+  projectName: "ui-portfolio-template", // Replace with your repo/project name
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -54,7 +54,7 @@ const config = {
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/contact", label: "Contact", position: "right" },
           {
-            href: "https://carlykendeigh.github.io/ui-portfolio-template/",
+            href: "https://github.com/carlykendeigh/ui-portfolio-template",
             label: "GitHub",
             position: "right",
           },
@@ -80,7 +80,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://carlykendeigh.github.io/ui-portfolio-template/o",
+                href: "https://github.com/carlykendeigh/ui-portfolio-template",
               },
             ],
           },
