@@ -44,7 +44,3 @@ export default function Home() {
         <div className="container">
           <HomepageFeatures />
         </div>
-      </main>
-    </Layout>
-  );
-}
