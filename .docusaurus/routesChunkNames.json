@@ -1,12 +1,12 @@
 {
-  "/ui-portfolio-template/about-me-394": {
+  "/erin-ui-portfolio2/about-me-2c9": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "a91b54f4"
   },
-  "/ui-portfolio-template/blog-acd": {
+  "/erin-ui-portfolio2/blog-9c2": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -17,16 +17,16 @@
         "content": "8b225d5c"
       }
     ],
-    "__props": "ac204201"
+    "__props": "031c5c28"
   },
-  "/ui-portfolio-template/blog/archive-a29": {
+  "/erin-ui-portfolio2/blog/archive-da8": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "5a78b331"
+    "__props": "07b70d8e"
   },
-  "/ui-portfolio-template/blog/example-blog-post-6d9": {
+  "/erin-ui-portfolio2/blog/example-blog-post-15c": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -37,15 +37,15 @@
     "sidebar": "814f3328",
     "content": "952dbe61"
   },
-  "/ui-portfolio-template/blog/tags-da6": {
+  "/erin-ui-portfolio2/blog/tags-b15": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "aa5ab323"
+    "__props": "136ba056"
   },
-  "/ui-portfolio-template/blog/tags/freeform-07d": {
+  "/erin-ui-portfolio2/blog/tags/freeform-fe2": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -56,30 +56,30 @@
         "content": "8b225d5c"
       }
     ],
-    "__props": "fc6dde30"
+    "__props": "c217c26c"
   },
-  "/ui-portfolio-template/contact-d6b": {
+  "/erin-ui-portfolio2/contact-966": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "66c10cbb"
   },
-  "/ui-portfolio-template/markdown-page-667": {
+  "/erin-ui-portfolio2/markdown-page-6c2": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/ui-portfolio-template/projects-344": {
+  "/erin-ui-portfolio2/projects-2cd": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "e007a4f0"
   },
-  "/ui-portfolio-template/-bfd": {
+  "/erin-ui-portfolio2/-5f9": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

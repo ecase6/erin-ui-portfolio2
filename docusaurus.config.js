@@ -3,16 +3,16 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Carly's Portfolio",
+  title: "Erin's Portfolio",
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
   ////////////////////////////////////////////////////////////////////////////
-  url: "https://carlykendeigh.github.io", // Replace with your actual domain
-  baseUrl: "/ui-portfolio-template/",
+  url: "https://ecase6.github.io", // Replace with your actual domain
+  baseUrl: "/erin-ui-portfolio2/",
 
-  organizationName: "carlykendeigh", // Replace with your GitHub org/user name
-  projectName: "ui-portfolio-template", // Replace with your repo/project name
+  organizationName: "ecase6", // Replace with your GitHub org/user name
+  projectName: "erin-ui-portfolio2", // Replace with your repo/project name
   ////////////////////////////////////////////////////////////////////////////
 
   onBrokenLinks: "throw",
@@ -57,7 +57,7 @@ const config = {
           { to: "/contact", label: "Contact", position: "right" },
           {
             ////////////////////////////////////////////////////////////////////////////
-            href: "https://github.com/carlykendeigh/ui-portfolio-template",
+            href: "https://github.com/ecase6/erin-ui-portfolio2",
             ////////////////////////////////////////////////////////////////////////////
             label: "GitHub",
             position: "right",
@@ -85,7 +85,7 @@ const config = {
               {
                 label: "GitHub",
                 ////////////////////////////////////////////////////////////////////////////
-                href: "https://github.com/carlykendeigh/ui-portfolio-template",
+                href: "https://github.com/ecase6/erin-ui-portfolio2",
                 ////////////////////////////////////////////////////////////////////////////
               },
             ],

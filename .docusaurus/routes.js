@@ -3,53 +3,53 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/ui-portfolio-template/about-me',
-    component: ComponentCreator('/ui-portfolio-template/about-me', '394'),
+    path: '/erin-ui-portfolio2/about-me',
+    component: ComponentCreator('/erin-ui-portfolio2/about-me', '2c9'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/blog',
-    component: ComponentCreator('/ui-portfolio-template/blog', 'acd'),
+    path: '/erin-ui-portfolio2/blog',
+    component: ComponentCreator('/erin-ui-portfolio2/blog', '9c2'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/blog/archive',
-    component: ComponentCreator('/ui-portfolio-template/blog/archive', 'a29'),
+    path: '/erin-ui-portfolio2/blog/archive',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/archive', 'da8'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/blog/example-blog-post',
-    component: ComponentCreator('/ui-portfolio-template/blog/example-blog-post', '6d9'),
+    path: '/erin-ui-portfolio2/blog/example-blog-post',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/example-blog-post', '15c'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/blog/tags',
-    component: ComponentCreator('/ui-portfolio-template/blog/tags', 'da6'),
+    path: '/erin-ui-portfolio2/blog/tags',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags', 'b15'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/blog/tags/freeform',
-    component: ComponentCreator('/ui-portfolio-template/blog/tags/freeform', '07d'),
+    path: '/erin-ui-portfolio2/blog/tags/freeform',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform', 'fe2'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/contact',
-    component: ComponentCreator('/ui-portfolio-template/contact', 'd6b'),
+    path: '/erin-ui-portfolio2/contact',
+    component: ComponentCreator('/erin-ui-portfolio2/contact', '966'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/markdown-page',
-    component: ComponentCreator('/ui-portfolio-template/markdown-page', '667'),
+    path: '/erin-ui-portfolio2/markdown-page',
+    component: ComponentCreator('/erin-ui-portfolio2/markdown-page', '6c2'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/projects',
-    component: ComponentCreator('/ui-portfolio-template/projects', '344'),
+    path: '/erin-ui-portfolio2/projects',
+    component: ComponentCreator('/erin-ui-portfolio2/projects', '2cd'),
     exact: true
   },
   {
-    path: '/ui-portfolio-template/',
-    component: ComponentCreator('/ui-portfolio-template/', 'bfd'),
+    path: '/erin-ui-portfolio2/',
+    component: ComponentCreator('/erin-ui-portfolio2/', '5f9'),
     exact: true
   },
   {

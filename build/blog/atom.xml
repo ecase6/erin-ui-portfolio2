@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://carlykendeigh.github.io/ui-portfolio-template/blog</id>
-    <title>Carly's Portfolio Blog</title>
+    <id>https://ecase6.github.io/erin-ui-portfolio2/blog</id>
+    <title>Erin's Portfolio Blog</title>
     <updated>2024-08-26T14:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://carlykendeigh.github.io/ui-portfolio-template/blog"/>
-    <subtitle>Carly's Portfolio Blog</subtitle>
-    <icon>https://carlykendeigh.github.io/ui-portfolio-template/img/favicon.ico</icon>
+    <link rel="alternate" href="https://ecase6.github.io/erin-ui-portfolio2/blog"/>
+    <subtitle>Erin's Portfolio Blog</subtitle>
+    <icon>https://ecase6.github.io/erin-ui-portfolio2/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Example Blog Post]]></title>
-        <id>https://carlykendeigh.github.io/ui-portfolio-template/blog/example-blog-post</id>
-        <link href="https://carlykendeigh.github.io/ui-portfolio-template/blog/example-blog-post"/>
+        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/example-blog-post</id>
+        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/example-blog-post"/>
         <updated>2024-08-26T14:30:00.000Z</updated>
         <summary type="html"><![CDATA[This is an example of a blog post for a homework assignment with an assigned reading.]]></summary>
         <content type="html"><![CDATA[<p>This is an example of a blog post for a homework assignment with an assigned reading.

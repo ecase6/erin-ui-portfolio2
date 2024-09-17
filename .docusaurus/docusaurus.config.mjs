@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Carly's Portfolio",
+  "title": "Erin's Portfolio",
   "tagline": "Showcasing My Work and Thoughts",
   "favicon": "img/favicon.ico",
-  "url": "https://carlykendeigh.github.io",
-  "baseUrl": "/ui-portfolio-template/",
-  "organizationName": "carlykendeigh",
-  "projectName": "ui-portfolio-template",
+  "url": "https://ecase6.github.io",
+  "baseUrl": "/erin-ui-portfolio2/",
+  "organizationName": "ecase6",
+  "projectName": "erin-ui-portfolio2",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -30,7 +30,7 @@ export default {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "/Users/carlykendeigh/Documents/GitHub/carlyuiportfolio/src/css/custom.css"
+          "customCss": "/Users/erincase/Documents/GitHub/erin-ui-portfolio2/src/css/custom.css"
         }
       }
     ]
@@ -65,7 +65,7 @@ export default {
           "position": "right"
         },
         {
-          "href": "https://github.com/carlykendeigh/ui-portfolio-template",
+          "href": "https://github.com/ecase6/erin-ui-portfolio2",
           "label": "GitHub",
           "position": "right"
         }
@@ -107,7 +107,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/carlykendeigh/ui-portfolio-template"
+              "href": "https://github.com/ecase6/erin-ui-portfolio2"
             }
           ]
         }
