@@ -6,7 +6,7 @@
     },
     "content": "a91b54f4"
   },
-  "/erin-ui-portfolio2/blog-9c2": {
+  "/erin-ui-portfolio2/blog-ac0": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -14,10 +14,58 @@
     "sidebar": "814f3328",
     "items": [
       {
+        "content": "08eabee3"
+      },
+      {
+        "content": "77d6f6ee"
+      },
+      {
+        "content": "bbb80678"
+      },
+      {
+        "content": "48dfbbdd"
+      },
+      {
+        "content": "63ed8a48"
+      },
+      {
         "content": "8b225d5c"
       }
     ],
     "__props": "031c5c28"
+  },
+  "/erin-ui-portfolio2/blog/aestheticDesign-b4e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "117b90e5"
+  },
+  "/erin-ui-portfolio2/blog/affordancesAndSignifiersI-aa1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "608bcddc"
+  },
+  "/erin-ui-portfolio2/blog/affordancesAndSignifiersII-a87": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "fa2fd840"
   },
   "/erin-ui-portfolio2/blog/archive-da8": {
     "__comp": "9e4087bc",
@@ -25,6 +73,17 @@
       "plugin": "36994c47"
     },
     "__props": "07b70d8e"
+  },
+  "/erin-ui-portfolio2/blog/designRules-d92": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d77cccc7"
   },
   "/erin-ui-portfolio2/blog/example-blog-post-15c": {
     "__comp": "ccc49370",
@@ -37,6 +96,17 @@
     "sidebar": "814f3328",
     "content": "952dbe61"
   },
+  "/erin-ui-portfolio2/blog/schneidermanAndInfoOrg-61a": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "8491538a"
+  },
   "/erin-ui-portfolio2/blog/tags-b15": {
     "__comp": "01a85c17",
     "__context": {
@@ -44,6 +114,67 @@
     },
     "sidebar": "814f3328",
     "__props": "136ba056"
+  },
+  "/erin-ui-portfolio2/blog/tags/approximate-analogy-0b8": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "bbb80678"
+      }
+    ],
+    "__props": "08d9980e"
+  },
+  "/erin-ui-portfolio2/blog/tags/concept-map-2d1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "77d6f6ee"
+      }
+    ],
+    "__props": "36562b4d"
+  },
+  "/erin-ui-portfolio2/blog/tags/doet-4ec": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "48dfbbdd"
+      },
+      {
+        "content": "63ed8a48"
+      }
+    ],
+    "__props": "ba5d19f5"
+  },
+  "/erin-ui-portfolio2/blog/tags/free-form-e6c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "08eabee3"
+      },
+      {
+        "content": "77d6f6ee"
+      },
+      {
+        "content": "48dfbbdd"
+      }
+    ],
+    "__props": "ba4b2e36"
   },
   "/erin-ui-portfolio2/blog/tags/freeform-fe2": {
     "__comp": "6875c492",
@@ -57,6 +188,19 @@
       }
     ],
     "__props": "c217c26c"
+  },
+  "/erin-ui-portfolio2/blog/tags/word-journal-4b0": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "63ed8a48"
+      }
+    ],
+    "__props": "9bf60b26"
   },
   "/erin-ui-portfolio2/contact-966": {
     "__comp": "1f391b9e",

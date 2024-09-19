@@ -2,11 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ecase6.github.io/erin-ui-portfolio2/blog</id>
     <title>Erin's Portfolio Blog</title>
-    <updated>2024-08-26T14:30:00.000Z</updated>
+    <updated>2024-09-20T15:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ecase6.github.io/erin-ui-portfolio2/blog"/>
     <subtitle>Erin's Portfolio Blog</subtitle>
     <icon>https://ecase6.github.io/erin-ui-portfolio2/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Aesthetic Design]]></title>
+        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/aestheticDesign</id>
+        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/aestheticDesign"/>
+        <updated>2024-09-20T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In response to Chapter 6 of Simple ideas on presentation design and delivery. New Riders.]]></summary>
+        <content type="html"><![CDATA[<p><em>In response to Chapter 6 of: Reynolds, G. (2008). <em>Presentation Zen: Simple ideas on presentation design and delivery</em>. New Riders.</em></p>
+<p>After reading about "The Big Four" design principles—Contrast, Repetition, Alignment, and Proximity in the reading, I thought about ways these ideas are common in life that have nothing to do with screens or the internet.</p>
+<p>For example: contrast. This principle is everywhere, like when picking out an outfit. Wearing a black or neutral colored dress with a red bag/accessory makes the red stand out and adds interest to the look. The reading emphasized how contrast helps important elements pop, which is the same reason why we might pair a bold accessory with a simple outfit.</p>
+<p>Repetition is a big part of interior design, like in the way a cozy room might have the same vibe of decor or the same color throughout the space. This creates a sense of unity, just as the book describes.</p>
+<p>Alignment made me think about hanging up pictures to create a “gallery wall”. When things are lined up intentionally, it instantly makes the space look more organized and visually pleasing. The reading pointed out how alignment brings order to a design, which is why we naturally line things up in our surroundings, it just feels right.</p>
+<p>Lastly, proximity made me think of arranging items on a kitchen counter. We instinctively group things that go together, like coffee mugs next to the coffee maker or utensils close to the stove. The reading’s point about proximity helping to show relationships between items clicked with me when I thought of how we organize our physical spaces to be more functional.</p>
+<p>Understanding these principles will definitely help in my future as a software engineer. When designing software, applying contrast, repetition, alignment, and proximity can make an app’s layout as cohesive as outfits or gallery walls. It’s all about creating an experience that feels natural and easy to navigate, just like how we arrange things in our everyday spaces.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/redBag-ffa079836edea1ce6a26196af0233961.jpeg" width="6971" height="4647" class="img_ev3q"></p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Rules]]></title>
+        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/designRules</id>
+        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/designRules"/>
+        <updated>2024-09-13T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In response to Chapters 2, 3, 4, and 5 of: Krug, S. (2006). Don't make me think! A common sense approach to web usability (2nd ed.). New Riders.]]></summary>
+        <content type="html"><![CDATA[<p><em>In response to Chapters 2, 3, 4, and 5 of: Krug, S. (2006). Don't make me think! A common sense approach to web usability (2nd ed.). New Riders.</em></p>
+<p>Scanning and Satisficing from Chapter 2 emphasize that users don’t consume information in a linear way, or read everything. This is why Visual Hierarchy (Chapter 3) and the use of Conventions are important. If a website or app follows established patterns, it makes it easier for users to look through and find what they need.</p>
+<p>The relationship between Navigation Clarity (Chapter 4) and Visual Hierarchy (Chapter 3) is crucial. A well-designed hierarchy can improve navigation by highlighting what's important and where users need to go (e.g., having breadcrumbs). Together, these help users feel in control and avoid getting lost.</p>
+<p>Minimizing unnecessary text (Chapter 5) works hand-in-hand with reducing visual noise (Chapter 3). This combination helps reduce cognitive load, making it easier for users to process content quickly without being overwhelmed. Clickability from Chapter 3 also ties into this, as clear, concise instructions should guide users to the right actions.</p>
+<p>Across all chapters, Krug reinforces that the core focus should always be usability, whether through simplifying text, improving navigation, or designing with conventions in mind. Each chapter adds another layer to this, highlighting that the easier we make it for users, the more successful the product will be.</p>
+<p>Understanding these relationships is important to create user-friendly apps/websites. By internalizing how users think and interact with digital products, I'll be able to design solutions that reduce frustration, improve engagement, and lead to better overall satisfaction. Whether I'm developing a database or designing a feature in my future software engineering work, these ideas will be helpful while trying to create intuitive, effective solutions.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/hierarchy-01abe34988eb6831e061c832c290bc97.jpeg" width="5824" height="3264" class="img_ev3q"></p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+        <category label="ConceptMap" term="ConceptMap"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schneiderman & Info Org]]></title>
+        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/schneidermanAndInfoOrg</id>
+        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/schneidermanAndInfoOrg"/>
+        <updated>2024-09-06T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In response to Shneiderman, B. (1996). The eyes have it//doi.org/10.1109/VL.1996.545307]]></summary>
+        <content type="html"><![CDATA[<p><em>In response to Shneiderman, B. (1996). The eyes have it: A task by data type taxonomy for information visualizations. Proceedings of the IEEE Symposium on Visual Languages, 336–343. <a href="https://doi.org/10.1109/VL.1996.545307" target="_blank" rel="noopener noreferrer">https://doi.org/10.1109/VL.1996.545307</a></em></p>
+<p>The "Visual Information-Seeking Mantra" is to data as a GPS is to navigation.</p>
+<p>Just like a GPS helps you get an overview of your surroundings, zoom into specific areas, filter out routes and provide more details when needed, the mantra ("Overview first, zoom and filter, then details on demand") is a guide for navigating large datasets. It helps users to gain an overall understanding, find and process relevant information, and get specific details when needed.</p>
+<p>This concept is important for my career because, as a software engineer, I will almost certainly at some point need to present complex or large amounts of data in an easily digestible format. Just as GPS makes traveling simpler by removing the complexity of maps, applying this mantra to visualizing/formatting data would make reviewing large datasets more manageable and efficient for users.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/phoneGPS-af5ecc120cc3bab12b6751c6f76d5c9c.jpeg" width="6000" height="4000" class="img_ev3q"></p>]]></content>
+        <category label="ApproximateAnalogy" term="ApproximateAnalogy"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Affordances & Signifiers II]]></title>
+        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/affordancesAndSignifiersII</id>
+        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/affordancesAndSignifiersII"/>
+        <updated>2024-09-03T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In response to Chapter 2 of: Norman, D.A. (2013). The design of everyday things. MIT Press.]]></summary>
+        <content type="html"><![CDATA[<p><em>In response to Chapter 2 of: Norman, D.A. (2013). The design of everyday things. MIT Press.</em></p>
+<p>I read Chapter 2 of DOET while having <em>RuPaul's Drag Race</em> on in the background, and I found there are some connections I can draw between the two.</p>
+<p>The ideas of the "Gulf of Execution" and the "Seven Stages of Action" can be seen in the creative process of drag queens on RuPaul's Drag Race. Queens will usually start with a clear goal for challenges and runways (like embodying a specific character or theme) but sometimes things are lost between intention and execution. Just as DOET describes, they must plan, execute, and then evaluate their actions, adjusting based on feedback. The "Gulf of Execution" becomes evident when their vision doesn’t fully translate into their look or performance, which demonstrates the challenges of transforming an idea into reality.</p>
+<p>This reflection on the stages of action and the gap between intention and outcome shows the complex process of design, whether in drag or in design of everyday objects. I'll keep this in mind when I'm designing or developing software in my future career.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/dragQueen-51b82ed5ee52f50aeea7a595953b8966.jpeg" width="3484" height="2325" class="img_ev3q"></p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+        <category label="DOET" term="DOET"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Affordances & Signifiers I]]></title>
+        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/affordancesAndSignifiersI</id>
+        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/affordancesAndSignifiersI"/>
+        <updated>2024-09-03T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In response to Chapter 1 of: Norman, D.A. (2013). The design of everyday things. MIT Press.]]></summary>
+        <content type="html"><![CDATA[<p><em>In response to Chapter 1 of: Norman, D.A. (2013). The design of everyday things. MIT Press.</em></p>
+<p>I would summarize the section titled "Complexity of Modern Devices" with the word "human".</p>
+<p><strong>“We have to accept human behavior the way it is, not the way we would wish it to be.”</strong></p>
+<p>This is very relevant to remember when creating software and testing, along with creating everyday products like washing machines or blenders. It's important to keep humans behavior, understanding, and potential error in mind. It made me think about how elderly people are often blamed for their struggles with technology, but really they're just human, and it's not their fault that it's difficult for them to understand. When things are poorly designed, human error is inevitable (as the author alludes to this in his experience at the American nuclear power plan accident). I'll definitely remember this concept going forward, as I aim to design well and not get frustrated over "human error". There will always be room to improve and create a better and more clear experience for users.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/computerHelp-5e9b76c65835bda34c5c25fa97b5cca4.jpg" width="6100" height="4067" class="img_ev3q"></p>]]></content>
+        <category label="WordJournal" term="WordJournal"/>
+        <category label="DOET" term="DOET"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Example Blog Post]]></title>
         <id>https://ecase6.github.io/erin-ui-portfolio2/blog/example-blog-post</id>

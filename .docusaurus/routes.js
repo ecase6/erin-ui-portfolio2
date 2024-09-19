@@ -9,7 +9,22 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', '9c2'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', 'ac0'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/aestheticDesign',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/aestheticDesign', 'b4e'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/affordancesAndSignifiersI',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/affordancesAndSignifiersI', 'aa1'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/affordancesAndSignifiersII',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/affordancesAndSignifiersII', 'a87'),
     exact: true
   },
   {
@@ -18,8 +33,18 @@ export default [
     exact: true
   },
   {
+    path: '/erin-ui-portfolio2/blog/designRules',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/designRules', 'd92'),
+    exact: true
+  },
+  {
     path: '/erin-ui-portfolio2/blog/example-blog-post',
     component: ComponentCreator('/erin-ui-portfolio2/blog/example-blog-post', '15c'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/schneidermanAndInfoOrg',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/schneidermanAndInfoOrg', '61a'),
     exact: true
   },
   {
@@ -28,8 +53,33 @@ export default [
     exact: true
   },
   {
+    path: '/erin-ui-portfolio2/blog/tags/approximate-analogy',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/approximate-analogy', '0b8'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/tags/concept-map',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/concept-map', '2d1'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/tags/doet',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/doet', '4ec'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/tags/free-form',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form', 'e6c'),
+    exact: true
+  },
+  {
     path: '/erin-ui-portfolio2/blog/tags/freeform',
     component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform', 'fe2'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/tags/word-journal',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/word-journal', '4b0'),
     exact: true
   },
   {
