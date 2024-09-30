@@ -4,10 +4,98 @@
         <title>Erin's Portfolio Blog</title>
         <link>https://ecase6.github.io/erin-ui-portfolio2/blog</link>
         <description>Erin's Portfolio Blog</description>
-        <lastBuildDate>Fri, 20 Sep 2024 15:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 15:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Color Study]]></title>
+            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/colorStudy</link>
+            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/colorStudy</guid>
+            <pubDate>Thu, 26 Sep 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[The Drink Half Past website has a UI that stands out to me, and I'd like to take some time to study it and]]></description>
+            <content:encoded><![CDATA[<p>The <em>Drink Half Past</em> website has a UI that stands out to me, and I'd like to take some time to study it and
+experiment with the colors on the page.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/drinkHalfPast-9f9ecde9b6e701ff88334d0b144d8096.png" width="2870" height="1536" class="img_ev3q"></p>
+<p>The original color scheme in the screenshot primarily uses pastel shades:</p>
+<ul>
+<li>Pink (Grapefruit with Rosemary)</li>
+<li>Peachy orange (Ginger with Turmeric)</li>
+<li>Soft green (Spicy Lime)</li>
+<li>Light yellow (Pineapple with Clove)
+These background colors are similar to the colors of the cans.</li>
+</ul>
+<p>The buttons at the bottom of each drink card are variations of green, blue, and purple (the same color as the labels on the can). The text is mainly black, with the product names using bold, block-like fonts in dark contrasting colors, making them stand out clearly.</p>
+<p>This color scheme fits into a split complementary color scheme. Pastel shades of pink, green, yellow, and peach provide soft, harmonious contrasts while the bold colors of the text and cans create focal points. The color choices also feel fresh and organic, matching the natural, vibrant qualities the brand wants to communicate.</p>
+<p>The designers seem to be going for a clean, fresh, and somewhat playful mood. The pastel tones feel light and refreshing, suggesting the natural flavors/ingredients in the drinks. The bold product names give an energetic vibe, helping to reinforce the feeling of excitement and adventure in trying new flavors.</p>
+<p><strong>Recreation 1: Light Blue Monochromatic Scheme</strong>
+<img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/halfPastUI1-db71ad4638a1b1e1c7547d305bd6fb8b.png" width="960" height="720" class="img_ev3q">
+This version features soft, pastel-like blue tones across the entire design. The background of each flavor card uses light shades of blue with different levels of saturation, while the buttons and text follow a similar light color scheme.
+It gives a calm, clean, and refreshing feel. The light blue tones evoke a sense of trust and reliability, making the design feel professional and safe. Its cool tones imply cooling and refreshing factors in the beverage. However, the lack of strong contrast between product cards might make it harder to differentiate between flavors at a glance. While it’s visually cohesive, it could feel a bit monotonous for users seeking variety in the product options.</p>
+<p><strong>Recreation 2: Earthy Analogous Scheme</strong>
+<img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/halfPastUI2-8bd7d8e3c86b1c2aba8da98b22e6b49f.png" width="960" height="720" class="img_ev3q">
+This version uses a palette of greens and yellows. Each card features either a light yellow or green background, with slightly darker buttons to contrast. The analogous colors (adjacent on the color wheel) create a natural, harmonious vibe. This design has a very organic, earthy feel, which reflects the idea of natural ingredients and freshness. The yellow and green tones make it feel health-conscious and environmentally friendly. The analogous colors work well together, creating a balanced and cohesive look without clashing. This version is effective in emphasizing the natural qualities of the products but might lack the visual "pop" needed to grab users' attention quickly. It’s subtle and pleasing, but not as exciting as other schemes.</p>
+<p><strong>Recreation 3: High-Contrast Complementary Scheme</strong>
+<img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/halfPastUI3-344144ffd9e4a3074bbe4fdd0c1a9059.png" width="960" height="720" class="img_ev3q"></p>
+<p>In this version, bright orange backgrounds are paired with blue accents for a bold, complementary color scheme. The contrast is striking, and the colors create a strong visual division between product sections. The orange and blue combination conveys energy, excitement, and urgency. This high-contrast scheme draws immediate attention and creates a dynamic, lively feel. It could be particularly effective in grabbing the attention of users who are quickly browsing the page. The complementary scheme is highly effective in making the UI engaging and attention-grabbing. However, the intensity of the colors may feel a bit overwhelming to some users, especially if they're used to more neutral designs. Still, for an energetic, adventurous brand, this could work very well.</p>
+<p><strong>Recreation 4: Triadic Scheme</strong>
+<img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/halfPastUI4-624e7225e0057f6abc0aa73a7ee1176e.png" width="960" height="720" class="img_ev3q">
+The triadic scheme features a balance between purple, green, and yellow. Each product card has one of these three colors in a light, pastel tone, and the buttons use muted versions of the same colors to keep the palette consistent. This design feels playful and creative. The triadic color scheme keeps the page dynamic without the high tension of a complementary scheme. The colors are bright but not overpowering, giving a sense of fun and variety while maintaining balance. This scheme is effective in creating visual interest without overwhelming the user. It strikes a balance between contrast and harmony, making it one of the most engaging versions. It allows each product to stand out while still keeping a unified design. It could appeal to users looking for a fun, energetic brand experience.</p>
+<p>Each color scheme has its strengths, but the Triadic Scheme (4) stands out as the most effective overall for the following reasons:</p>
+<p>Variety/Balance: The triadic scheme offers visual variety while maintaining balance. It provides contrast without overwhelming the user, making the UI both dynamic and visually interesting.</p>
+<p>Mood: The playful, vibrant tones fit the personality of a brand that sells unique and exciting beverages. It appeals to users' sense of curiosity and fun.</p>
+<p>Functionality: The differentiation between each product card is clear, making it easy for users to distinguish between flavors while still feeling like the entire page is cohesive.</p>
+<p>This scheme would likely be the most engaging for users while maintaining the product’s fresh and lively feel. It is the most similar to the original design, which I think is really great UI. In my version, though, I leaned into the triadic design more. However, this doesn't reflect the flavors as well as the original does.</p>
+<p>While I don't think it's the most effective, I did love the boldness and edginess of Recreation 3. Everyone has their own opinions and taste!</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
+        <item>
+            <title><![CDATA[Colors I]]></title>
+            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/colorsI</link>
+            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/colorsI</guid>
+            <pubDate>Thu, 26 Sep 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[In response to pages 8-25 of Expert color information for professional color results. Rockport Publishers.]]></description>
+            <content:encoded><![CDATA[<p><em>In response to pages 8-25 of: Sutton, T., &amp; Whelan, B. M. (1998). The complete color harmony: Expert color information for professional color results. Rockport Publishers.</em></p>
+<p>I thought it would be interesting to try “The Process” on page 14.</p>
+<p><strong>STEP 1:
+Clearly define the results you want to achieve with color.</strong></p>
+<p>I want to create something that invokes feelings of calmness, lightheartedness, ease, and playfulness.</p>
+<p>This step was important because it made me really think about the emotions I wanted to create, reminding me that design is not just about looks - it's about how it makes people feel.</p>
+<p><strong>STEP 2:
+Select a main color that reflects the needs of the project.</strong></p>
+<p>I chose blue since it's often associated with calmness and peacefulness. This part helped me see how selecting a color can set the tone for an entire project, much like how a project's main goal drives design choices.</p>
+<p><strong>STEP 3:
+Select a color scheme based on the choice of the central hue.</strong></p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/blue-d429d92635b27383ec1552e55cda2283.png" width="856" height="248" class="img_ev3q"></p>
+<p>After experimenting with different palettes, I realized how much the surrounding colors can affect the mood. Blue paired with lighter, pastel tones felt lighthearted and playful, while pairing it with deeper hues added a sense of balance and seriousness.</p>
+<p><strong>STEP 4:
+Refine the available color choices in terms of the particular project or individual sensibility.</strong></p>
+<p>I narrowed it down to three colors, which made the scheme feel more focused and simple. This step made me think about constraints. If this were a real project, I would need to consider factors like accessibility and brand identity. Simplifying the palette was a valuable exercise in making choices that align with the project's goals.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/3colors-e64e771e9e802f9f15be48b07121bd7f.png" width="2298" height="534" class="img_ev3q"></p>
+<p>Reflection: Going through this process gave me insight into how color can shape a user's experience. In my future career as a software engineer, this will be useful when designing user interfaces. I see how important it is to start by defining the emotional goals of a project, then select colors thoughtfully to support those goals. Narrowing down a palette to just a few colors will keep the design clean and user-friendly, which is key in building intuitive software. This exercise showed me that every color choice should be intentional, creating a visual experience that reflects the project's purpose.</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
+        <item>
+            <title><![CDATA[Colors II]]></title>
+            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/colorsII</link>
+            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/colorsII</guid>
+            <pubDate>Thu, 26 Sep 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[In response to pages 26-55 and 176-191 of Expert color information for professional color results. Rockport Publishers.]]></description>
+            <content:encoded><![CDATA[<p><em>In response to pages 26-55 and 176-191 of: Sutton, T., &amp; Whelan, B. M. (1998). The complete color harmony: Expert color information for professional color results. Rockport Publishers.</em></p>
+<p>Reading about the different types of color schemes at the beginning of this section of the book immediately made
+me think of the schemes that I gravitate towards. I really enjoy clash and complementary schemes, and I found examples
+of both of these on posters I have hung up in my room. Not only have I seen these schemes in my posters, but I've also
+seen them in lots of other decor and even some UI.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/3colors-e64e771e9e802f9f15be48b07121bd7f.png" width="2298" height="534" class="img_ev3q"></p>
+<p>The above poster has a mix of green and blue with big red letters that jump out aggressively. This is a prime example of what’s known as a clash scheme—where colors that aren't quite opposites on the color wheel create visual tension. The green and blue of the background sit comfortably together, but the red stands out. It’s bold, unexpected, and it demands attention.</p>
+<p>In UI design, clash schemes can be powerful but intense. They demand attention. I can think of a button in an app that’s an intense color against a muted background. This kind of contrast can drive action, but it can also overwhelm the user. I think the trick would be to use clashing colors intentionally, in small amounts, to direct the user’s focus without causing discomfort or cognitive overload.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/3colors-e64e771e9e802f9f15be48b07121bd7f.png" width="2298" height="534" class="img_ev3q"></p>
+<p>In this other poster, above, it is dominated by blue, with a man in a yellow suit. This follows a complementary color scheme. Blue and yellow sit opposite each other on the color wheel, creating a nice, unique balance. This type of scheme is great for catching the eye while maintaining a sense of cohesion and calm. The yellow suit pops against the blue background, but in a way that feels less confrontational than the clash of red, green, and blue in the first poster.</p>
+<p>In UI design, complementary colors can help create emphasis without overwhelming the user. A blue interface with strategically placed yellow elements—buttons, icons, or text would be a good idea. It’s like giving them visual cues without shouting.</p>
+<p>My posters will be a reminder of how different color schemes evoke different emotions. Clash schemes can create excitement, urgency, or even discomfort when needed, but must be used carefully. They’re great for making something stand out, like error messages or call-to-action buttons, but too much can overwhelm users. On the other hand, complementary schemes offer contrast in a way that’s pleasing to the eye. This balance is ideal for creating interfaces that feel both engaging and easy to navigate. When users are working through a complex app or website, they don’t want to feel like they’re being bombarded with too much intensity. Complementary colors offer that subtle touch.</p>
+<p>Both posters and both color schemes have their place. I think that the key to UI, much like in art, is knowing which tool to use at the right moment.</p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Aesthetic Design]]></title>
             <link>https://ecase6.github.io/erin-ui-portfolio2/blog/aestheticDesign</link>

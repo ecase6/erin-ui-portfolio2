@@ -6,13 +6,22 @@
     },
     "content": "a91b54f4"
   },
-  "/erin-ui-portfolio2/blog-ac0": {
+  "/erin-ui-portfolio2/blog-927": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "cac26370"
+      },
+      {
+        "content": "d858b344"
+      },
+      {
+        "content": "df43f76f"
+      },
       {
         "content": "08eabee3"
       },
@@ -73,6 +82,39 @@
       "plugin": "36994c47"
     },
     "__props": "07b70d8e"
+  },
+  "/erin-ui-portfolio2/blog/colorsI-69f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "7b8ebb02"
+  },
+  "/erin-ui-portfolio2/blog/colorsII-750": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "24a47972"
+  },
+  "/erin-ui-portfolio2/blog/colorStudy-3af": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "26e24582"
   },
   "/erin-ui-portfolio2/blog/designRules-d92": {
     "__comp": "ccc49370",
@@ -157,13 +199,22 @@
     ],
     "__props": "ba5d19f5"
   },
-  "/erin-ui-portfolio2/blog/tags/free-form-e6c": {
+  "/erin-ui-portfolio2/blog/tags/free-form-482": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "cac26370"
+      },
+      {
+        "content": "d858b344"
+      },
+      {
+        "content": "df43f76f"
+      },
       {
         "content": "08eabee3"
       },

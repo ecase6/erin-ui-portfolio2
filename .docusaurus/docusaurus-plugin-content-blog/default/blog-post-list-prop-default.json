@@ -2,6 +2,21 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Color Study",
+      "permalink": "/erin-ui-portfolio2/blog/colorStudy",
+      "unlisted": false
+    },
+    {
+      "title": "Colors I",
+      "permalink": "/erin-ui-portfolio2/blog/colorsI",
+      "unlisted": false
+    },
+    {
+      "title": "Colors II",
+      "permalink": "/erin-ui-portfolio2/blog/colorsII",
+      "unlisted": false
+    },
+    {
       "title": "Aesthetic Design",
       "permalink": "/erin-ui-portfolio2/blog/aestheticDesign",
       "unlisted": false
@@ -9,21 +24,6 @@
     {
       "title": "Design Rules",
       "permalink": "/erin-ui-portfolio2/blog/designRules",
-      "unlisted": false
-    },
-    {
-      "title": "Schneiderman & Info Org",
-      "permalink": "/erin-ui-portfolio2/blog/schneidermanAndInfoOrg",
-      "unlisted": false
-    },
-    {
-      "title": "Affordances & Signifiers II",
-      "permalink": "/erin-ui-portfolio2/blog/affordancesAndSignifiersII",
-      "unlisted": false
-    },
-    {
-      "title": "Affordances & Signifiers I",
-      "permalink": "/erin-ui-portfolio2/blog/affordancesAndSignifiersI",
       "unlisted": false
     }
   ]

@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', 'ac0'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', '927'),
     exact: true
   },
   {
@@ -30,6 +30,21 @@ export default [
   {
     path: '/erin-ui-portfolio2/blog/archive',
     component: ComponentCreator('/erin-ui-portfolio2/blog/archive', 'da8'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/colorsI',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/colorsI', '69f'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/colorsII',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/colorsII', '750'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/colorStudy',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/colorStudy', '3af'),
     exact: true
   },
   {
@@ -69,7 +84,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/free-form',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form', 'e6c'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form', '482'),
     exact: true
   },
   {
