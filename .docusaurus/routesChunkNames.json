@@ -6,13 +6,16 @@
     },
     "content": "a91b54f4"
   },
-  "/erin-ui-portfolio2/blog-927": {
+  "/erin-ui-portfolio2/blog-57e": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "03f94732"
+      },
       {
         "content": "cac26370"
       },
@@ -127,6 +130,17 @@
     "sidebar": "814f3328",
     "content": "d77cccc7"
   },
+  "/erin-ui-portfolio2/blog/designSystems-7ad": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "aecbea06"
+  },
   "/erin-ui-portfolio2/blog/example-blog-post-15c": {
     "__comp": "ccc49370",
     "__context": {
@@ -157,13 +171,16 @@
     "sidebar": "814f3328",
     "__props": "136ba056"
   },
-  "/erin-ui-portfolio2/blog/tags/approximate-analogy-0b8": {
+  "/erin-ui-portfolio2/blog/tags/approximate-analogy-baa": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "03f94732"
+      },
       {
         "content": "bbb80678"
       }

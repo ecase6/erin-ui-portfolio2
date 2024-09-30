@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', '927'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', '57e'),
     exact: true
   },
   {
@@ -53,6 +53,11 @@ export default [
     exact: true
   },
   {
+    path: '/erin-ui-portfolio2/blog/designSystems',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/designSystems', '7ad'),
+    exact: true
+  },
+  {
     path: '/erin-ui-portfolio2/blog/example-blog-post',
     component: ComponentCreator('/erin-ui-portfolio2/blog/example-blog-post', '15c'),
     exact: true
@@ -69,7 +74,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/approximate-analogy',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/approximate-analogy', '0b8'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/approximate-analogy', 'baa'),
     exact: true
   },
   {
