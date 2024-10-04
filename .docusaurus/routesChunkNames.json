@@ -6,13 +6,16 @@
     },
     "content": "a91b54f4"
   },
-  "/erin-ui-portfolio2/blog-57e": {
+  "/erin-ui-portfolio2/blog-139": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "5925464d"
+      },
       {
         "content": "03f94732"
       },
@@ -39,9 +42,6 @@
       },
       {
         "content": "63ed8a48"
-      },
-      {
-        "content": "8b225d5c"
       }
     ],
     "__props": "031c5c28"
@@ -152,6 +152,30 @@
     "sidebar": "814f3328",
     "content": "952dbe61"
   },
+  "/erin-ui-portfolio2/blog/findingInspiration-13c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "888acddc"
+  },
+  "/erin-ui-portfolio2/blog/page/2-d72": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "8b225d5c"
+      }
+    ],
+    "__props": "e111f0b7"
+  },
   "/erin-ui-portfolio2/blog/schneidermanAndInfoOrg-61a": {
     "__comp": "ccc49370",
     "__context": {
@@ -216,13 +240,16 @@
     ],
     "__props": "ba5d19f5"
   },
-  "/erin-ui-portfolio2/blog/tags/free-form-482": {
+  "/erin-ui-portfolio2/blog/tags/free-form-407": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "5925464d"
+      },
       {
         "content": "cac26370"
       },

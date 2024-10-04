@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', '57e'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', '139'),
     exact: true
   },
   {
@@ -63,6 +63,16 @@ export default [
     exact: true
   },
   {
+    path: '/erin-ui-portfolio2/blog/findingInspiration',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/findingInspiration', '13c'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/page/2',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', 'd72'),
+    exact: true
+  },
+  {
     path: '/erin-ui-portfolio2/blog/schneidermanAndInfoOrg',
     component: ComponentCreator('/erin-ui-portfolio2/blog/schneidermanAndInfoOrg', '61a'),
     exact: true
@@ -89,7 +99,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/free-form',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form', '482'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form', '407'),
     exact: true
   },
   {

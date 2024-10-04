@@ -2,6 +2,11 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Finding Inspiration",
+      "permalink": "/erin-ui-portfolio2/blog/findingInspiration",
+      "unlisted": false
+    },
+    {
       "title": "Design Systems",
       "permalink": "/erin-ui-portfolio2/blog/designSystems",
       "unlisted": false
@@ -19,11 +24,6 @@
     {
       "title": "Colors II",
       "permalink": "/erin-ui-portfolio2/blog/colorsII",
-      "unlisted": false
-    },
-    {
-      "title": "Aesthetic Design",
-      "permalink": "/erin-ui-portfolio2/blog/aestheticDesign",
       "unlisted": false
     }
   ]
