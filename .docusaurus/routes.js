@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', '139'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', '264'),
     exact: true
   },
   {
@@ -68,8 +68,13 @@ export default [
     exact: true
   },
   {
+    path: '/erin-ui-portfolio2/blog/navigationAndValues',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/navigationAndValues', '0eb'),
+    exact: true
+  },
+  {
     path: '/erin-ui-portfolio2/blog/page/2',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', 'd72'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', '331'),
     exact: true
   },
   {
@@ -109,7 +114,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/word-journal',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/word-journal', '4b0'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/word-journal', '072'),
     exact: true
   },
   {

@@ -2,6 +2,11 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Navigation and Values",
+      "permalink": "/erin-ui-portfolio2/blog/navigationAndValues",
+      "unlisted": false
+    },
+    {
       "title": "Finding Inspiration",
       "permalink": "/erin-ui-portfolio2/blog/findingInspiration",
       "unlisted": false
@@ -19,11 +24,6 @@
     {
       "title": "Colors I",
       "permalink": "/erin-ui-portfolio2/blog/colorsI",
-      "unlisted": false
-    },
-    {
-      "title": "Colors II",
-      "permalink": "/erin-ui-portfolio2/blog/colorsII",
       "unlisted": false
     }
   ]

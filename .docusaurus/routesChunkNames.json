@@ -6,13 +6,16 @@
     },
     "content": "a91b54f4"
   },
-  "/erin-ui-portfolio2/blog-139": {
+  "/erin-ui-portfolio2/blog-264": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "b0395e32"
+      },
       {
         "content": "5925464d"
       },
@@ -39,9 +42,6 @@
       },
       {
         "content": "48dfbbdd"
-      },
-      {
-        "content": "63ed8a48"
       }
     ],
     "__props": "031c5c28"
@@ -163,13 +163,27 @@
     "sidebar": "814f3328",
     "content": "888acddc"
   },
-  "/erin-ui-portfolio2/blog/page/2-d72": {
+  "/erin-ui-portfolio2/blog/navigationAndValues-0eb": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "b5ce8481"
+  },
+  "/erin-ui-portfolio2/blog/page/2-331": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "63ed8a48"
+      },
       {
         "content": "8b225d5c"
       }
@@ -284,13 +298,16 @@
     ],
     "__props": "c217c26c"
   },
-  "/erin-ui-portfolio2/blog/tags/word-journal-4b0": {
+  "/erin-ui-portfolio2/blog/tags/word-journal-072": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "b0395e32"
+      },
       {
         "content": "63ed8a48"
       }
