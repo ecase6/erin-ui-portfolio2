@@ -5,9 +5,14 @@ slug: /projects
 
 # Projects
 
-Here are some of the projects I've worked on:
+**Design System:**
 
-- **Project 1**: Description of your first project.
-- **Project 2**: Description of your second project.
+<div style={{ border: '1px solid rgba(0, 0, 0, 0.1)', width: '800px', height: '450px' }}>
+  <iframe
+    width="800"
+    height="450"
+    src="https://embed.figma.com/design/018Q63YKHEEpRSEdmZALaj/FinalProject?node-id=0-1&embed-host=share"
+    allowFullScreen
+  ></iframe>
+</div>
 
-<!-- Add more project descriptions -->
