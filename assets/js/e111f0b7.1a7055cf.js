@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9772],{6137:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/erin-ui-portfolio2/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":15,"previousPage":"/erin-ui-portfolio2/blog","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
