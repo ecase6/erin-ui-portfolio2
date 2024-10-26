@@ -4,10 +4,57 @@
         <title>Erin's Portfolio Blog</title>
         <link>https://ecase6.github.io/erin-ui-portfolio2/blog</link>
         <description>Erin's Portfolio Blog</description>
-        <lastBuildDate>Thu, 17 Oct 2024 15:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 15:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Debriefing User Tests]]></title>
+            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/debriefingUserTests</link>
+            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/debriefingUserTests</guid>
+            <pubDate>Fri, 25 Oct 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[In response to Don't Make Me Think pages 137-141]]></description>
+            <content:encoded><![CDATA[<p><em>In response to Don't Make Me Think pages 137-141</em></p>
+<p>On these pages, Krug talks about what usually goes wrong during user testing, and more importantly, how to fix it. It turns out most of the issues are simpler than we'd imagine. Some include:</p>
+<ul>
+<li>
+<p>Users don’t get it. Sometimes, people just look at your site and are completely lost. Either they can’t figure out what it’s for, or they think they know and they’re totally wrong.</p>
+</li>
+<li>
+<p>They can’t find the right words. They’re searching for something, but the words on your site don’t match what they’d expect.</p>
+</li>
+<li>
+<p>Too much clutter. Ever had what you need right in front of you but you just couldn’t see it? That happens to users too. When there’s too much going on, people can miss what’s important. Sometimes the solution is to simplify the page or make key elements stand out more.</p>
+</li>
+</ul>
+<p>After each round of testing, Krug recommends a quick debrief, ideally over pizza, to decide what needs fixing. The idea is to focus on the biggest problems first and avoid getting distracted by minor things. Here’s his approach:</p>
+<ul>
+<li>
+<p>List the top issues. Go around the room and have everyone share what they saw as the three biggest problems. Write them down—no discussion yet, just listing them.</p>
+</li>
+<li>
+<p>Prioritize. Once you’ve got the list, pick the ten most important problems and rank them from worst to least urgent.</p>
+</li>
+<li>
+<p>Create a plan. For each of the top problems, figure out how you’ll fix it, who will handle it, and what resources they’ll need. The goal isn’t to fix every problem perfectly, but to make enough progress that the big issues are no longer deal-breakers.</p>
+</li>
+</ul>
+<p>Krug’s advice is also to resist the urge to add more stuff when users are confused. Instead of piling on explanations, sometimes the best solution is to take things away and make the page simpler. And if a user suggests a new feature, take it with a grain of salt because they’ll often realize that they wouldn’t even use it themselves.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/perspective-0e578c587e97c1ba26fb2a506367982d.jpeg" width="5568" height="3712" class="img_ev3q"></p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
+        <item>
+            <title><![CDATA[User Testing 101]]></title>
+            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/userTesting101</link>
+            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/userTesting101</guid>
+            <pubDate>Fri, 25 Oct 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[In response to Don't Make Me Think Chapters 8 and 9]]></description>
+            <content:encoded><![CDATA[<p><em>In response to Don't Make Me Think Chapters 8 and 9</em></p>
+<p>If I had to choose one word to capture Chapter 8, it would be "Perspective". This chapter highlights how our professional and personal perspectives shape, and often complicate, our approach to usability in design. Designers, developers, marketers, and all other roles bring their own strong beliefs about what makes a great user experience. This can often clashing over details based on what matters most to them. For designers, it might be the visual aesthetic of a page, while for developers, it’s the clever and efficient functionality. And because we’re all technology users, we tend to project our preferences onto others, assuming other people want what we like.</p>
+<p>This concept of perspective is important for me to remember in my career because it emphasizes the importance of staying open-minded. Recognizing different perspectives helps shift the focus from what I or others think users want to what users actually need. That’s where usability testing becomes essential. By stepping outside of our personal viewpoints, we can rely on user feedback to ground our designs in real-world use. This perspective shift can make decisions easier and lead to better, more user-focused designs that work for everyone.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/testing-56846d51d4d5c7e5bdadf8b8694cf25f.jpeg" width="6720" height="2992" class="img_ev3q"></p>]]></content:encoded>
+            <category>WordJournal</category>
+        </item>
         <item>
             <title><![CDATA[Feedback Workshop]]></title>
             <link>https://ecase6.github.io/erin-ui-portfolio2/blog/feedback</link>
