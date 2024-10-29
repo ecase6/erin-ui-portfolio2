@@ -4,10 +4,38 @@
         <title>Erin's Portfolio Blog</title>
         <link>https://ecase6.github.io/erin-ui-portfolio2/blog</link>
         <description>Erin's Portfolio Blog</description>
-        <lastBuildDate>Fri, 25 Oct 2024 15:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 15:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Inclusive Design 1]]></title>
+            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/inclusiveDesign1</link>
+            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/inclusiveDesign1</guid>
+            <pubDate>Tue, 29 Oct 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[In response to Don't Make Me Think Chapter 12 by Steve Krug]]></description>
+            <content:encoded><![CDATA[<p><em>In response to Don't Make Me Think Chapter 12 by Steve Krug</em></p>
+<p>While reading this chapter I thought about how accessibility shouldn't just be a nice-to-have, it should be treated like a non-negotiable. Making a website or app accessible isn't just about following a set of rules, it’s about designing for people. And even if those people aren't standing right in front of us, their needs are real and valid.</p>
+<p>Krug hit on something powerful when they said, “it’s profoundly the right thing to do.” Accessibility isn't just about covering a legal requirement or making a site "usable" for most people, it's about asking ourselves what we owe to those who need our technology the most. Every small change we make for accessibility has the power to dramatically improve someone’s experience.</p>
+<p>In class and at work, it's common to often hear about creating "good design" or “user-centered design,” but it’s easy to forget who “the user” is when we're rushing to meet deadlines or cramming features into limited time. Accessibility teaches us to slow down and think more broadly about who we’re designing for and to remember that every user is a real person with unique needs and perspectives. This reminder feels crucial as I step into the tech industry. I want to create something that everyone can use.</p>
+<p>This chapter also gave me some practical takeaways I can use right away, like adding alt text to images and using semantic HTML structures. Accessibility might take a bit of extra time and might not show up as “cool” or “fancy” in the design itself, but it’s the kind of work that makes a real difference in people’s lives.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/accessability-5cdf1af2fdebe39c85d24868a8f23f72.jpeg" class="img_ev3q"></p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
+        <item>
+            <title><![CDATA[Inclusive Design 2]]></title>
+            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/inclusiveDesign2</link>
+            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/inclusiveDesign2</guid>
+            <pubDate>Tue, 29 Oct 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[In response to The Design of Everyday Things Chapter 4 by Don Norman]]></description>
+            <content:encoded><![CDATA[<p><em>In response to The Design of Everyday Things Chapter 4 by Don Norman</em></p>
+<p>Reading about how we approach using something completely unfamiliar, I thought about the way we rely on two distinct kinds of knowledge: what’s in the world around us and what’s in our heads.</p>
+<p>The chapter explained how physical, cultural, semantic, and logical constraints help us make decisions. These constraints are like silent guides, reducing the chances of making mistakes by narrowing down the set of possible actions. When we combine these with the mental models we’ve built over time, we can operate complex or unfamiliar objects surprisingly easy.</p>
+<p>What really sticks with me is the balance between design and our natural ability to adapt. As a future developer, I want to think about both the external and internal ways people make sense of what I create. It’s not just about coding something that works, it’s about designing in a way that guides users effortlessly through the experience. This approach doesn’t just make things easier to use, it makes them feel intuitive.</p>
+<p>This kind of knowledge is like learning a new language that we can "read" without words, just by looking at a well-designed object or interface. The world is full of signals, and learning to interpret them (or create them, in my case) is both an art and a science.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/knowledge-e5782a14ab730ae755013cc93623f356.jpeg" width="7262" height="4912" class="img_ev3q"></p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Debriefing User Tests]]></title>
             <link>https://ecase6.github.io/erin-ui-portfolio2/blog/debriefingUserTests</link>
