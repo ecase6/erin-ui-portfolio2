@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', '264'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', 'e4d'),
     exact: true
   },
   {
@@ -48,6 +48,11 @@ export default [
     exact: true
   },
   {
+    path: '/erin-ui-portfolio2/blog/debriefingUserTests',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/debriefingUserTests', 'ea0'),
+    exact: true
+  },
+  {
     path: '/erin-ui-portfolio2/blog/designRules',
     component: ComponentCreator('/erin-ui-portfolio2/blog/designRules', 'd92'),
     exact: true
@@ -63,8 +68,28 @@ export default [
     exact: true
   },
   {
+    path: '/erin-ui-portfolio2/blog/feedback',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/feedback', 'eeb'),
+    exact: true
+  },
+  {
     path: '/erin-ui-portfolio2/blog/findingInspiration',
     component: ComponentCreator('/erin-ui-portfolio2/blog/findingInspiration', '13c'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/inclusiveDesign1',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/inclusiveDesign1', '5f8'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/inclusiveDesign2',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/inclusiveDesign2', 'ec5'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/mockups',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/mockups', '1d4'),
     exact: true
   },
   {
@@ -74,7 +99,12 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/page/2',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', '331'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', '2ca'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/PortfoliosAndDesignNarratives',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/PortfoliosAndDesignNarratives', '87f'),
     exact: true
   },
   {
@@ -89,7 +119,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/approximate-analogy',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/approximate-analogy', 'baa'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/approximate-analogy', 'a43'),
     exact: true
   },
   {
@@ -104,7 +134,12 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/free-form',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form', '407'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form', 'e4d'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/tags/free-form/page/2',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form/page/2', 'ac9'),
     exact: true
   },
   {
@@ -114,7 +149,12 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/word-journal',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/word-journal', '072'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/word-journal', 'b52'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/userTesting101',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/userTesting101', '8c0'),
     exact: true
   },
   {

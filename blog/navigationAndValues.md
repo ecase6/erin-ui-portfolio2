@@ -16,4 +16,4 @@ In my career as a software engineer, I know how important it is to keep things c
 
 Whether I’m building an app or collaborating with a team, I want everything to be straightforward and easy to understand. That way, we can focus on creating great experiences and solving real problems.
 
-![Error getting image](/img/lightbulb.jpeg)
+![Error getting image](/img/balance.jpeg)

@@ -2,28 +2,28 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Navigation and Values",
-      "permalink": "/erin-ui-portfolio2/blog/navigationAndValues",
+      "title": "Inclusive Design 1",
+      "permalink": "/erin-ui-portfolio2/blog/inclusiveDesign1",
       "unlisted": false
     },
     {
-      "title": "Finding Inspiration",
-      "permalink": "/erin-ui-portfolio2/blog/findingInspiration",
+      "title": "Inclusive Design 2",
+      "permalink": "/erin-ui-portfolio2/blog/inclusiveDesign2",
       "unlisted": false
     },
     {
-      "title": "Design Systems",
-      "permalink": "/erin-ui-portfolio2/blog/designSystems",
+      "title": "Debriefing User Tests",
+      "permalink": "/erin-ui-portfolio2/blog/debriefingUserTests",
       "unlisted": false
     },
     {
-      "title": "Color Study",
-      "permalink": "/erin-ui-portfolio2/blog/colorStudy",
+      "title": "User Testing 101",
+      "permalink": "/erin-ui-portfolio2/blog/userTesting101",
       "unlisted": false
     },
     {
-      "title": "Colors I",
-      "permalink": "/erin-ui-portfolio2/blog/colorsI",
+      "title": "Feedback Workshop",
+      "permalink": "/erin-ui-portfolio2/blog/feedback",
       "unlisted": false
     }
   ]

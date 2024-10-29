@@ -6,13 +6,34 @@
     },
     "content": "a91b54f4"
   },
-  "/erin-ui-portfolio2/blog-264": {
+  "/erin-ui-portfolio2/blog-e4d": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "e3141be8"
+      },
+      {
+        "content": "22b4fb25"
+      },
+      {
+        "content": "ed34ac0c"
+      },
+      {
+        "content": "c60351df"
+      },
+      {
+        "content": "24d03c59"
+      },
+      {
+        "content": "c1ffb0ec"
+      },
+      {
+        "content": "4eaf7f42"
+      },
       {
         "content": "b0395e32"
       },
@@ -21,27 +42,6 @@
       },
       {
         "content": "03f94732"
-      },
-      {
-        "content": "cac26370"
-      },
-      {
-        "content": "d858b344"
-      },
-      {
-        "content": "df43f76f"
-      },
-      {
-        "content": "08eabee3"
-      },
-      {
-        "content": "77d6f6ee"
-      },
-      {
-        "content": "bbb80678"
-      },
-      {
-        "content": "48dfbbdd"
       }
     ],
     "__props": "031c5c28"
@@ -119,6 +119,17 @@
     "sidebar": "814f3328",
     "content": "26e24582"
   },
+  "/erin-ui-portfolio2/blog/debriefingUserTests-ea0": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "abbf6778"
+  },
   "/erin-ui-portfolio2/blog/designRules-d92": {
     "__comp": "ccc49370",
     "__context": {
@@ -152,6 +163,17 @@
     "sidebar": "814f3328",
     "content": "952dbe61"
   },
+  "/erin-ui-portfolio2/blog/feedback-eeb": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "9682a6c3"
+  },
   "/erin-ui-portfolio2/blog/findingInspiration-13c": {
     "__comp": "ccc49370",
     "__context": {
@@ -162,6 +184,39 @@
     },
     "sidebar": "814f3328",
     "content": "888acddc"
+  },
+  "/erin-ui-portfolio2/blog/inclusiveDesign1-5f8": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "008d17a5"
+  },
+  "/erin-ui-portfolio2/blog/inclusiveDesign2-ec5": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "038d4968"
+  },
+  "/erin-ui-portfolio2/blog/mockups-1d4": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "54f70759"
   },
   "/erin-ui-portfolio2/blog/navigationAndValues-0eb": {
     "__comp": "ccc49370",
@@ -174,13 +229,34 @@
     "sidebar": "814f3328",
     "content": "b5ce8481"
   },
-  "/erin-ui-portfolio2/blog/page/2-331": {
+  "/erin-ui-portfolio2/blog/page/2-2ca": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "cac26370"
+      },
+      {
+        "content": "d858b344"
+      },
+      {
+        "content": "df43f76f"
+      },
+      {
+        "content": "08eabee3"
+      },
+      {
+        "content": "77d6f6ee"
+      },
+      {
+        "content": "bbb80678"
+      },
+      {
+        "content": "48dfbbdd"
+      },
       {
         "content": "63ed8a48"
       },
@@ -189,6 +265,17 @@
       }
     ],
     "__props": "e111f0b7"
+  },
+  "/erin-ui-portfolio2/blog/PortfoliosAndDesignNarratives-87f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "4db3ca58"
   },
   "/erin-ui-portfolio2/blog/schneidermanAndInfoOrg-61a": {
     "__comp": "ccc49370",
@@ -209,13 +296,16 @@
     "sidebar": "814f3328",
     "__props": "136ba056"
   },
-  "/erin-ui-portfolio2/blog/tags/approximate-analogy-baa": {
+  "/erin-ui-portfolio2/blog/tags/approximate-analogy-a43": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "24d03c59"
+      },
       {
         "content": "03f94732"
       },
@@ -254,13 +344,28 @@
     ],
     "__props": "ba5d19f5"
   },
-  "/erin-ui-portfolio2/blog/tags/free-form-407": {
+  "/erin-ui-portfolio2/blog/tags/free-form-e4d": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "e3141be8"
+      },
+      {
+        "content": "22b4fb25"
+      },
+      {
+        "content": "ed34ac0c"
+      },
+      {
+        "content": "c1ffb0ec"
+      },
+      {
+        "content": "4eaf7f42"
+      },
       {
         "content": "5925464d"
       },
@@ -275,7 +380,17 @@
       },
       {
         "content": "08eabee3"
-      },
+      }
+    ],
+    "__props": "ba4b2e36"
+  },
+  "/erin-ui-portfolio2/blog/tags/free-form/page/2-ac9": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
       {
         "content": "77d6f6ee"
       },
@@ -283,7 +398,7 @@
         "content": "48dfbbdd"
       }
     ],
-    "__props": "ba4b2e36"
+    "__props": "c70bf57e"
   },
   "/erin-ui-portfolio2/blog/tags/freeform-fe2": {
     "__comp": "6875c492",
@@ -298,13 +413,16 @@
     ],
     "__props": "c217c26c"
   },
-  "/erin-ui-portfolio2/blog/tags/word-journal-072": {
+  "/erin-ui-portfolio2/blog/tags/word-journal-b52": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "c60351df"
+      },
       {
         "content": "b0395e32"
       },
@@ -313,6 +431,17 @@
       }
     ],
     "__props": "9bf60b26"
+  },
+  "/erin-ui-portfolio2/blog/userTesting101-8c0": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "90dde51c"
   },
   "/erin-ui-portfolio2/contact-966": {
     "__comp": "1f391b9e",
