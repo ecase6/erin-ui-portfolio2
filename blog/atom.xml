@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ecase6.github.io/erin-ui-portfolio2/blog</id>
     <title>Erin's Portfolio Blog</title>
-    <updated>2024-10-29T15:30:00.000Z</updated>
+    <updated>2024-11-15T15:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ecase6.github.io/erin-ui-portfolio2/blog"/>
     <subtitle>Erin's Portfolio Blog</subtitle>
     <icon>https://ecase6.github.io/erin-ui-portfolio2/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UIUN Summit Reflection]]></title>
+        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/summitReflection</id>
+        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/summitReflection"/>
+        <updated>2024-11-15T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I attended a "UIUN Summit", which was a sort of "mock United Nations" discussion about the UI needs of different groups of users.]]></summary>
+        <content type="html"><![CDATA[<p>Recently, I attended a "UIUN Summit", which was a sort of "mock United Nations" discussion about the UI needs of different groups of users.</p>
+<p>I respresented individuals with hand tremors. Some other groups that were represented were first-time voters, elderly, and individuals with visual impairments. We had to communicate with each other and work together to ensure that the needs of each population were met in some capacity.</p>
+<p>To give you some more insight to the workshop, I'll share some of the things I learned about individuals with hand tremors in regards to their UI needs. Hand tremors cause involuntary shaking of the hands, which makes clicking and interacting with websites/apps difficult and frustrating at times. Here are just a few things that would make navigiating UIs easier for them:</p>
+<ul>
+<li>large buttons (ideally at least 48x48px)</li>
+<li>space between clickable targets (to help prevent misclicks)</li>
+<li>keyboard functionality</li>
+<li>reviews before submissions</li>
+<li>opportunities to fix errors</li>
+<li>simple layouts</li>
+</ul>
+<p>The negotiations were very civil and rather quiet. I think we all recognized the importance of the needs of each population, and we wanted to make sure each group was satisfied with the results. No one wanted to "bulldoze" the conversation and place their groups' needs above others.</p>
+<p>I advocated for a number of the needs listed above. However, the one's I placed at top priority were button size/spacing and keyboard functionality. I quickly realized that the other needs on the list were needs that other populations need and would benefit from as well, so it wasn't difficult to advocate for those. Throughout the workshop, the number of needs we could add to the "pretend project backlog" got smaller and smaller. So, I had to focus mostly on the needs of my population that would also benefit others.</p>
+<p>One unlikely ally I had was with the person representing indivduals with anxiety. Specifically when it came to being able to prevent/fix errors as often as the user would need. I didn't think any of the representatives were hard to convince. Everyone was understanding, and we were working together to get the best outcome for everyone.</p>
+<p>It was hard for me to not be able to ensure that all of my groups' needs would be met. Prioritizing these needs was difficult because I am not a member of the group I was representing. However, I understood that in order for everyone to get the best outcome, we would all have to compromise.</p>
+<p>Here are some of my takeaways:</p>
+<ul>
+<li>It's important to not only advocate for the needs that are important to you (or the group that you're representing), but to also recognize and advocate for the needs of others</li>
+<li>Compromise is necessary to reach an outcome that is best for everyone</li>
+<li>Finding allies is important to ensure that your ideas are supported</li>
+</ul>
+<p>I think that all of the above are applicable in any matter where teamwork is involved. This could be at work, school, etc. The best solutions are the ones that benefit <em>everyone</em>.</p>]]></content>
+        <category label="WordJournal" term="WordJournal"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inclusive Design 1]]></title>
         <id>https://ecase6.github.io/erin-ui-portfolio2/blog/inclusiveDesign1</id>
@@ -18,7 +48,7 @@
 <p>Krug hit on something powerful when they said, “it’s profoundly the right thing to do.” Accessibility isn't just about covering a legal requirement or making a site "usable" for most people, it's about asking ourselves what we owe to those who need our technology the most. Every small change we make for accessibility has the power to dramatically improve someone’s experience.</p>
 <p>In class and at work, it's common to often hear about creating "good design" or “user-centered design,” but it’s easy to forget who “the user” is when we're rushing to meet deadlines or cramming features into limited time. Accessibility teaches us to slow down and think more broadly about who we’re designing for and to remember that every user is a real person with unique needs and perspectives. This reminder feels crucial as I step into the tech industry. I want to create something that everyone can use.</p>
 <p>This chapter also gave me some practical takeaways I can use right away, like adding alt text to images and using semantic HTML structures. Accessibility might take a bit of extra time and might not show up as “cool” or “fancy” in the design itself, but it’s the kind of work that makes a real difference in people’s lives.</p>
-<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/accessability-5cdf1af2fdebe39c85d24868a8f23f72.jpeg" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/accessability-5cdf1af2fdebe39c85d24868a8f23f72.jpeg" width="5292" height="3840" class="img_ev3q"></p>]]></content>
         <category label="FreeForm" term="FreeForm"/>
     </entry>
     <entry>
