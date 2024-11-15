@@ -2,6 +2,11 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "UIUN Summit Reflection",
+      "permalink": "/erin-ui-portfolio2/blog/summitReflection",
+      "unlisted": false
+    },
+    {
       "title": "Inclusive Design 1",
       "permalink": "/erin-ui-portfolio2/blog/inclusiveDesign1",
       "unlisted": false
@@ -19,11 +24,6 @@
     {
       "title": "User Testing 101",
       "permalink": "/erin-ui-portfolio2/blog/userTesting101",
-      "unlisted": false
-    },
-    {
-      "title": "Feedback Workshop",
-      "permalink": "/erin-ui-portfolio2/blog/feedback",
       "unlisted": false
     }
   ]

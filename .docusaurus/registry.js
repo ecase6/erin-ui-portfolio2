@@ -26,6 +26,7 @@ export default {
   "608bcddc": [() => import(/* webpackChunkName: "608bcddc" */ "@site/blog/affordancesAndSignifiersI.md"), "@site/blog/affordancesAndSignifiersI.md", require.resolveWeak("@site/blog/affordancesAndSignifiersI.md")],
   "63ed8a48": [() => import(/* webpackChunkName: "63ed8a48" */ "@site/blog/affordancesAndSignifiersI.md?truncated=true"), "@site/blog/affordancesAndSignifiersI.md?truncated=true", require.resolveWeak("@site/blog/affordancesAndSignifiersI.md?truncated=true")],
   "66c10cbb": [() => import(/* webpackChunkName: "66c10cbb" */ "@site/src/pages/contact.md"), "@site/src/pages/contact.md", require.resolveWeak("@site/src/pages/contact.md")],
+  "66ce4bb1": [() => import(/* webpackChunkName: "66ce4bb1" */ "@site/blog/summitReflection.md"), "@site/blog/summitReflection.md", require.resolveWeak("@site/blog/summitReflection.md")],
   "6875c492": [() => import(/* webpackChunkName: "6875c492" */ "@theme/BlogTagsPostsPage"), "@theme/BlogTagsPostsPage", require.resolveWeak("@theme/BlogTagsPostsPage")],
   "77d6f6ee": [() => import(/* webpackChunkName: "77d6f6ee" */ "@site/blog/designRules.md?truncated=true"), "@site/blog/designRules.md?truncated=true", require.resolveWeak("@site/blog/designRules.md?truncated=true")],
   "7b8ebb02": [() => import(/* webpackChunkName: "7b8ebb02" */ "@site/blog/colorsI.md"), "@site/blog/colorsI.md", require.resolveWeak("@site/blog/colorsI.md")],
@@ -62,5 +63,6 @@ export default {
   "e007a4f0": [() => import(/* webpackChunkName: "e007a4f0" */ "@site/src/pages/projects.md"), "@site/src/pages/projects.md", require.resolveWeak("@site/src/pages/projects.md")],
   "e111f0b7": [() => import(/* webpackChunkName: "e111f0b7" */ "@generated/docusaurus-plugin-content-blog/default/p/erin-ui-portfolio-2-blog-page-2-e33.json"), "@generated/docusaurus-plugin-content-blog/default/p/erin-ui-portfolio-2-blog-page-2-e33.json", require.resolveWeak("@generated/docusaurus-plugin-content-blog/default/p/erin-ui-portfolio-2-blog-page-2-e33.json")],
   "e3141be8": [() => import(/* webpackChunkName: "e3141be8" */ "@site/blog/inclusiveDesign1.md?truncated=true"), "@site/blog/inclusiveDesign1.md?truncated=true", require.resolveWeak("@site/blog/inclusiveDesign1.md?truncated=true")],
+  "e4e2cdb3": [() => import(/* webpackChunkName: "e4e2cdb3" */ "@site/blog/summitReflection.md?truncated=true"), "@site/blog/summitReflection.md?truncated=true", require.resolveWeak("@site/blog/summitReflection.md?truncated=true")],
   "ed34ac0c": [() => import(/* webpackChunkName: "ed34ac0c" */ "@site/blog/debriefingUserTests.md?truncated=true"), "@site/blog/debriefingUserTests.md?truncated=true", require.resolveWeak("@site/blog/debriefingUserTests.md?truncated=true")],
   "fa2fd840": [() => import(/* webpackChunkName: "fa2fd840" */ "@site/blog/affordancesAndSignifiersII.md"), "@site/blog/affordancesAndSignifiersII.md", require.resolveWeak("@site/blog/affordancesAndSignifiersII.md")],};

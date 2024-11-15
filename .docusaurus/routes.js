@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', 'e4d'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', 'ae6'),
     exact: true
   },
   {
@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/page/2',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', '2ca'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', '575'),
     exact: true
   },
   {
@@ -110,6 +110,11 @@ export default [
   {
     path: '/erin-ui-portfolio2/blog/schneidermanAndInfoOrg',
     component: ComponentCreator('/erin-ui-portfolio2/blog/schneidermanAndInfoOrg', '61a'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/summitReflection',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/summitReflection', '7d5'),
     exact: true
   },
   {
@@ -149,7 +154,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/word-journal',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/word-journal', 'b52'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/word-journal', 'd4a'),
     exact: true
   },
   {
