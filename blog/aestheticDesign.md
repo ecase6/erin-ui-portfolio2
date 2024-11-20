@@ -2,7 +2,7 @@
 title: Aesthetic Design
 slug: /aestheticDesign
 date: 2024-09-20T15:30:00Z
-tags: [FreeForm]
+tags: [freeform]
 ---
 
 # Aesthetic Design

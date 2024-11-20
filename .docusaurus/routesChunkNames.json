@@ -152,17 +152,6 @@
     "sidebar": "814f3328",
     "content": "aecbea06"
   },
-  "/erin-ui-portfolio2/blog/example-blog-post-15c": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "952dbe61"
-  },
   "/erin-ui-portfolio2/blog/feedback-eeb": {
     "__comp": "ccc49370",
     "__context": {
@@ -229,7 +218,7 @@
     "sidebar": "814f3328",
     "content": "b5ce8481"
   },
-  "/erin-ui-portfolio2/blog/page/2-575": {
+  "/erin-ui-portfolio2/blog/page/2-c39": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -262,9 +251,6 @@
       },
       {
         "content": "63ed8a48"
-      },
-      {
-        "content": "8b225d5c"
       }
     ],
     "__props": "e111f0b7"
@@ -310,7 +296,7 @@
     "sidebar": "814f3328",
     "__props": "136ba056"
   },
-  "/erin-ui-portfolio2/blog/tags/approximate-analogy-a43": {
+  "/erin-ui-portfolio2/blog/tags/approximateanalogy-1b4": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -327,9 +313,9 @@
         "content": "bbb80678"
       }
     ],
-    "__props": "08d9980e"
+    "__props": "65af06b2"
   },
-  "/erin-ui-portfolio2/blog/tags/concept-map-2d1": {
+  "/erin-ui-portfolio2/blog/tags/conceptmap-cf7": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -340,25 +326,9 @@
         "content": "77d6f6ee"
       }
     ],
-    "__props": "36562b4d"
+    "__props": "e23a22af"
   },
-  "/erin-ui-portfolio2/blog/tags/doet-4ec": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "48dfbbdd"
-      },
-      {
-        "content": "63ed8a48"
-      }
-    ],
-    "__props": "ba5d19f5"
-  },
-  "/erin-ui-portfolio2/blog/tags/free-form-e4d": {
+  "/erin-ui-portfolio2/blog/tags/freeform-cfd": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -396,9 +366,9 @@
         "content": "08eabee3"
       }
     ],
-    "__props": "ba4b2e36"
+    "__props": "c217c26c"
   },
-  "/erin-ui-portfolio2/blog/tags/free-form/page/2-ac9": {
+  "/erin-ui-portfolio2/blog/tags/freeform/page/2-031": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -412,22 +382,9 @@
         "content": "48dfbbdd"
       }
     ],
-    "__props": "c70bf57e"
+    "__props": "59a76d78"
   },
-  "/erin-ui-portfolio2/blog/tags/freeform-fe2": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "8b225d5c"
-      }
-    ],
-    "__props": "c217c26c"
-  },
-  "/erin-ui-portfolio2/blog/tags/word-journal-d4a": {
+  "/erin-ui-portfolio2/blog/tags/wordjournal-7a4": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -447,7 +404,7 @@
         "content": "63ed8a48"
       }
     ],
-    "__props": "9bf60b26"
+    "__props": "b76d6c3a"
   },
   "/erin-ui-portfolio2/blog/userTesting101-8c0": {
     "__comp": "ccc49370",

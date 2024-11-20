@@ -4,9 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Erin's Portfolio",
+  "title": "Erin's UI Portfolio",
   "tagline": "Showcasing My Work and Thoughts",
-  "favicon": "img/favicon.ico",
   "url": "https://ecase6.github.io",
   "baseUrl": "/erin-ui-portfolio2/",
   "organizationName": "ecase6",
@@ -36,13 +35,8 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "My UI Portfolio",
-      "logo": {
-        "alt": "My UI Portfolio Logo",
-        "src": "img/logo.svg"
-      },
       "items": [
         {
           "to": "/about-me",

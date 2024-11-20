@@ -22,9 +22,9 @@ function HomepageHeader() {
         <br></br>
         <Link
           className="button button--secondary button--lg"
-          to="/blog/example-blog-post"
+          to="/blog/summitReflection"
         >
-          Example Blog
+          Most Recent Blog Post
         </Link>
       </div>
     </header>

@@ -2,7 +2,7 @@
 title: Finding Inspiration
 slug: /findingInspiration
 date: 2024-10-04T15:30:00Z
-tags: [FreeForm]
+tags: [freeform]
 ---
 
 # Finding Inspiration

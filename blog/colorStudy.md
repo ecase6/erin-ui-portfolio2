@@ -2,7 +2,7 @@
 title: Color Study
 slug: /colorStudy
 date: 2024-09-26T15:30:00Z
-tags: [FreeForm]
+tags: [freeform]
 ---
 
 # Color Study

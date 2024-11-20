@@ -2,7 +2,7 @@
 title: User Testing 101
 slug: /userTesting101
 date: 2024-10-25T15:30:00Z
-tags: [WordJournal]
+tags: [wordjournal]
 ---
 
 # User Testing 101

@@ -2,7 +2,7 @@
 title: UIUN Summit Reflection
 slug: /summitReflection
 date: 2024-11-15T15:30:00Z
-tags: [WordJournal]
+tags: [wordjournal]
 ---
 
 # UIUN Summit Reflection

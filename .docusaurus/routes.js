@@ -63,11 +63,6 @@ export default [
     exact: true
   },
   {
-    path: '/erin-ui-portfolio2/blog/example-blog-post',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/example-blog-post', '15c'),
-    exact: true
-  },
-  {
     path: '/erin-ui-portfolio2/blog/feedback',
     component: ComponentCreator('/erin-ui-portfolio2/blog/feedback', 'eeb'),
     exact: true
@@ -99,7 +94,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/page/2',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', '575'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', 'c39'),
     exact: true
   },
   {
@@ -123,38 +118,28 @@ export default [
     exact: true
   },
   {
-    path: '/erin-ui-portfolio2/blog/tags/approximate-analogy',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/approximate-analogy', 'a43'),
+    path: '/erin-ui-portfolio2/blog/tags/approximateanalogy',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/approximateanalogy', '1b4'),
     exact: true
   },
   {
-    path: '/erin-ui-portfolio2/blog/tags/concept-map',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/concept-map', '2d1'),
-    exact: true
-  },
-  {
-    path: '/erin-ui-portfolio2/blog/tags/doet',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/doet', '4ec'),
-    exact: true
-  },
-  {
-    path: '/erin-ui-portfolio2/blog/tags/free-form',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form', 'e4d'),
-    exact: true
-  },
-  {
-    path: '/erin-ui-portfolio2/blog/tags/free-form/page/2',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/free-form/page/2', 'ac9'),
+    path: '/erin-ui-portfolio2/blog/tags/conceptmap',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/conceptmap', 'cf7'),
     exact: true
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/freeform',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform', 'fe2'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform', 'cfd'),
     exact: true
   },
   {
-    path: '/erin-ui-portfolio2/blog/tags/word-journal',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/word-journal', 'd4a'),
+    path: '/erin-ui-portfolio2/blog/tags/freeform/page/2',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform/page/2', '031'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/tags/wordjournal',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/wordjournal', '7a4'),
     exact: true
   },
   {

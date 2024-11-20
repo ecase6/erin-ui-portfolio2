@@ -3,16 +3,15 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Erin's Portfolio",
+  title: "Erin's UI Portfolio",
   tagline: "Showcasing My Work and Thoughts",
-  favicon: "img/favicon.ico",
 
   ////////////////////////////////////////////////////////////////////////////
-  url: "https://ecase6.github.io", // Replace with your actual domain
+  url: "https://ecase6.github.io",
   baseUrl: "/erin-ui-portfolio2/",
 
-  organizationName: "ecase6", // Replace with your GitHub org/user name
-  projectName: "erin-ui-portfolio2", // Replace with your repo/project name
+  organizationName: "ecase6",
+  projectName: "erin-ui-portfolio2",
   ////////////////////////////////////////////////////////////////////////////
 
   onBrokenLinks: "throw",
@@ -28,10 +27,9 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: false, // Disable docs if not needed
+        docs: false,
         blog: {
           showReadingTime: true,
-          // Add any additional blog configuration if needed
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -43,13 +41,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "My UI Portfolio",
-        logo: {
-          alt: "My UI Portfolio Logo",
-          src: "img/logo.svg",
-        },
         items: [
           { to: "/about-me", label: "About Me", position: "left" },
           { to: "/projects", label: "Projects", position: "left" },

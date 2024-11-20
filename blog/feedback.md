@@ -2,7 +2,7 @@
 title: Feedback Workshop
 slug: /feedback
 date: 2024-10-17T15:30:00Z
-tags: [ApproximateAnalogy]
+tags: [approximateanalogy]
 ---
 
 # Feedback Workshop

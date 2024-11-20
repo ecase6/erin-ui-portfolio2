@@ -2,7 +2,7 @@
 title: Navigation and Values
 slug: /navigationAndValues
 date: 2024-10-08T15:30:00Z
-tags: [WordJournal]
+tags: [wordjournal]
 ---
 
 # Navigation and Values

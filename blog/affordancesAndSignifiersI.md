@@ -2,7 +2,7 @@
 title: Affordances & Signifiers I
 slug: /affordancesAndSignifiersI
 date: 2024-09-03T14:30:00Z
-tags: [WordJournal, DOET]
+tags: [wordjournal]
 ---
 
 # Affordances & Signifiers I

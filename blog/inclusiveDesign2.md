@@ -2,7 +2,7 @@
 title: Inclusive Design 2
 slug: /inclusiveDesign2
 date: 2024-10-29T15:30:00Z
-tags: [FreeForm]
+tags: [freeform]
 ---
 
 # Inclusive Design 2

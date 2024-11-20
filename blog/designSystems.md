@@ -2,7 +2,7 @@
 title: Design Systems
 slug: /designSystems
 date: 2024-09-30T15:30:00Z
-tags: [ApproximateAnalogy]
+tags: [approximateanalogy]
 ---
 
 # Colors I

@@ -3,10 +3,10 @@
   "permalink": "/erin-ui-portfolio2/contact",
   "source": "@site/src/pages/contact.md",
   "title": "Contact",
-  "description": "Get in touch with us",
+  "description": "Get in touch",
   "frontMatter": {
     "title": "Contact",
-    "description": "Get in touch with us",
+    "description": "Get in touch",
     "permalink": "/contact"
   },
   "unlisted": false

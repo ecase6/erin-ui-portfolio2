@@ -2,7 +2,7 @@
 title: Debriefing User Tests
 slug: /debriefingUserTests
 date: 2024-10-25T15:30:00Z
-tags: [FreeForm]
+tags: [freeform]
 ---
 
 # Debriefing User Tests

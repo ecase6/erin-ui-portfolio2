@@ -2,7 +2,7 @@
 title: Schneiderman & Info Org
 slug: /schneidermanAndInfoOrg
 date: 2024-09-06T15:30:00Z
-tags: [ApproximateAnalogy]
+tags: [approximateanalogy]
 ---
 
 # Schneiderman & Info Organization

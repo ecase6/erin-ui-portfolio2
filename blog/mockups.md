@@ -2,7 +2,7 @@
 title: Mockups
 slug: /mockups
 date: 2024-10-17T15:30:00Z
-tags: [FreeForm]
+tags: [freeform]
 ---
 
 # Mockups

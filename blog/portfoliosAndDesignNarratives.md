@@ -2,7 +2,7 @@
 title: Portfolios & Design Narratives
 slug: /PortfoliosAndDesignNarratives
 date: 2024-10-15T15:30:00Z
-tags: [FreeForm]
+tags: [freeform]
 ---
 
 # Portfolios & Design Narratives
