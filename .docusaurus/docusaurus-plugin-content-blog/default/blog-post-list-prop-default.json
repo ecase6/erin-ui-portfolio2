@@ -2,6 +2,11 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Design Evolution Narrative",
+      "permalink": "/erin-ui-portfolio2/blog/designNarrative",
+      "unlisted": false
+    },
+    {
       "title": "UIUN Summit Reflection",
       "permalink": "/erin-ui-portfolio2/blog/summitReflection",
       "unlisted": false
@@ -19,11 +24,6 @@
     {
       "title": "Debriefing User Tests",
       "permalink": "/erin-ui-portfolio2/blog/debriefingUserTests",
-      "unlisted": false
-    },
-    {
-      "title": "User Testing 101",
-      "permalink": "/erin-ui-portfolio2/blog/userTesting101",
       "unlisted": false
     }
   ]

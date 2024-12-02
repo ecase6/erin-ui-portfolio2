@@ -6,13 +6,16 @@
     },
     "content": "a91b54f4"
   },
-  "/erin-ui-portfolio2/blog-ae6": {
+  "/erin-ui-portfolio2/blog-675": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "03b53c72"
+      },
       {
         "content": "e4e2cdb3"
       },
@@ -39,9 +42,6 @@
       },
       {
         "content": "b0395e32"
-      },
-      {
-        "content": "5925464d"
       }
     ],
     "__props": "031c5c28"
@@ -129,6 +129,17 @@
     },
     "sidebar": "814f3328",
     "content": "abbf6778"
+  },
+  "/erin-ui-portfolio2/blog/designNarrative-a7c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "0f7a0b6c"
   },
   "/erin-ui-portfolio2/blog/designRules-d92": {
     "__comp": "ccc49370",
@@ -218,13 +229,16 @@
     "sidebar": "814f3328",
     "content": "b5ce8481"
   },
-  "/erin-ui-portfolio2/blog/page/2-c39": {
+  "/erin-ui-portfolio2/blog/page/2-8cc": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "5925464d"
+      },
       {
         "content": "03f94732"
       },
@@ -328,13 +342,16 @@
     ],
     "__props": "e23a22af"
   },
-  "/erin-ui-portfolio2/blog/tags/freeform-cfd": {
+  "/erin-ui-portfolio2/blog/tags/freeform-bfa": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "03b53c72"
+      },
       {
         "content": "e3141be8"
       },
@@ -361,20 +378,20 @@
       },
       {
         "content": "df43f76f"
-      },
-      {
-        "content": "08eabee3"
       }
     ],
     "__props": "c217c26c"
   },
-  "/erin-ui-portfolio2/blog/tags/freeform/page/2-031": {
+  "/erin-ui-portfolio2/blog/tags/freeform/page/2-0ac": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "08eabee3"
+      },
       {
         "content": "77d6f6ee"
       },
