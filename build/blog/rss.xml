@@ -4,10 +4,50 @@
         <title>Erin's UI Portfolio Blog</title>
         <link>https://ecase6.github.io/erin-ui-portfolio2/blog</link>
         <description>Erin's UI Portfolio Blog</description>
-        <lastBuildDate>Mon, 02 Dec 2024 15:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 15:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Design Interviews]]></title>
+            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/designInterviews</link>
+            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/designInterviews</guid>
+            <pubDate>Tue, 03 Dec 2024 15:30:00 GMT</pubDate>
+            <description><![CDATA[One of the videos that I watched was called “UX/UI Interview Questions with Answers & Tips! (from a Google UX Designer)” by Ricardo Hernandez Perez, who is a UI Designer at Google. In this video, he shared some tips for interviewing for UI/UX positions, as well as some common questions that are asked. He explained that talking about the things that make you unique is powerful. I think this is good advice when interviewing for any role, as it’s good to set yourself apart from other candidates. Some of the common questions that might be asked in interviews are as follows:]]></description>
+            <content:encoded><![CDATA[<p>One of the videos that I watched was called “UX/UI Interview Questions with Answers &amp; Tips! (from a Google UX Designer)” by Ricardo Hernandez Perez, who is a UI Designer at Google. In this video, he shared some tips for interviewing for UI/UX positions, as well as some common questions that are asked. He explained that talking about the things that make you unique is powerful. I think this is good advice when interviewing for any role, as it’s good to set yourself apart from other candidates. Some of the common questions that might be asked in interviews are as follows:</p>
+<ul>
+<li>
+<p>What is your design process?</p>
+</li>
+<li>
+<p>Walk us through a project</p>
+<ul>
+<li>
+<p>What would you have done differently?</p>
+</li>
+<li>
+<p>What were the biggest challenges?</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Describe a situation where someone disagreed about your design</p>
+</li>
+<li>
+<p>How do you incorporate user research?</p>
+</li>
+<li>
+<p>How do you use data to inform your designs?</p>
+</li>
+<li>
+<p>How would you work on a project where there is ambiguity?</p>
+</li>
+</ul>
+<p>The biggest takeaway that I found from his explanation of how to answer these quesitons was that it’s helpful to have real experiences in mind. Preparing a narrative will not only help you answer the questions, but it will also help the interviewer get to know you better and understand the unique experiences you’ve had.</p>
+<p>While this video was specifically for UI/UX interviews, I think that a lot of the advice and main takeaways are the same for other interviews, especially software engineering interviews. While the technical questions will be different, having unique experiences and stories to share would be helpful when interviewing for that role as well.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/interview-6f4c7a5dc14a7a0a56f04d0e9968201e.jpeg" width="5760" height="3840" class="img_ev3q"></p>]]></content:encoded>
+            <category>FreeForm</category>
+        </item>
         <item>
             <title><![CDATA[Design Evolution Narrative]]></title>
             <link>https://ecase6.github.io/erin-ui-portfolio2/blog/designNarrative</link>
@@ -436,19 +476,6 @@ seen them in lots of other decor and even some UI.</p>
 <p>This reflection on the stages of action and the gap between intention and outcome shows the complex process of design, whether in drag or in design of everyday objects. I'll keep this in mind when I'm designing or developing software in my future career.</p>
 <p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/dragQueen-51b82ed5ee52f50aeea7a595953b8966.jpeg" width="3484" height="2325" class="img_ev3q"></p>]]></content:encoded>
             <category>FreeForm</category>
-        </item>
-        <item>
-            <title><![CDATA[Affordances & Signifiers I]]></title>
-            <link>https://ecase6.github.io/erin-ui-portfolio2/blog/affordancesAndSignifiersI</link>
-            <guid>https://ecase6.github.io/erin-ui-portfolio2/blog/affordancesAndSignifiersI</guid>
-            <pubDate>Tue, 03 Sep 2024 14:30:00 GMT</pubDate>
-            <description><![CDATA[In response to Chapter 1 of: Norman, D.A. (2013). The design of everyday things. MIT Press.]]></description>
-            <content:encoded><![CDATA[<p><em>In response to Chapter 1 of: Norman, D.A. (2013). The design of everyday things. MIT Press.</em></p>
-<p>I would summarize the section titled "Complexity of Modern Devices" with the word "human".</p>
-<p><strong>“We have to accept human behavior the way it is, not the way we would wish it to be.”</strong></p>
-<p>This is very relevant to remember when creating software and testing, along with creating everyday products like washing machines or blenders. It's important to keep humans behavior, understanding, and potential error in mind. It made me think about how elderly people are often blamed for their struggles with technology, but really they're just human, and it's not their fault that it's difficult for them to understand. When things are poorly designed, human error is inevitable (as the author alludes to this in his experience at the American nuclear power plan accident). I'll definitely remember this concept going forward, as I aim to design well and not get frustrated over "human error". There will always be room to improve and create a better and more clear experience for users.</p>
-<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/computerHelp-5e9b76c65835bda34c5c25fa97b5cca4.jpg" width="6100" height="4067" class="img_ev3q"></p>]]></content:encoded>
-            <category>WordJournal</category>
         </item>
     </channel>
 </rss>

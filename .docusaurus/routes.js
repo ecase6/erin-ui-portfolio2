@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', '675'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', '719'),
     exact: true
   },
   {
@@ -50,6 +50,11 @@ export default [
   {
     path: '/erin-ui-portfolio2/blog/debriefingUserTests',
     component: ComponentCreator('/erin-ui-portfolio2/blog/debriefingUserTests', 'ea0'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/designInterviews',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/designInterviews', '6d0'),
     exact: true
   },
   {
@@ -99,7 +104,12 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/page/2',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', '8cc'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/page/2', 'c9c'),
+    exact: true
+  },
+  {
+    path: '/erin-ui-portfolio2/blog/page/3',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/page/3', '0e7'),
     exact: true
   },
   {
@@ -134,12 +144,12 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/freeform',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform', 'bfa'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform', '176'),
     exact: true
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/freeform/page/2',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform/page/2', '0ac'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform/page/2', 'db2'),
     exact: true
   },
   {

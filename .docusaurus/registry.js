@@ -15,6 +15,7 @@ export default {
   "24a47972": [() => import(/* webpackChunkName: "24a47972" */ "@site/blog/colorsII.md"), "@site/blog/colorsII.md", require.resolveWeak("@site/blog/colorsII.md")],
   "24d03c59": [() => import(/* webpackChunkName: "24d03c59" */ "@site/blog/feedback.md?truncated=true"), "@site/blog/feedback.md?truncated=true", require.resolveWeak("@site/blog/feedback.md?truncated=true")],
   "26e24582": [() => import(/* webpackChunkName: "26e24582" */ "@site/blog/colorStudy.md"), "@site/blog/colorStudy.md", require.resolveWeak("@site/blog/colorStudy.md")],
+  "2c944b27": [() => import(/* webpackChunkName: "2c944b27" */ "@generated/docusaurus-plugin-content-blog/default/p/erin-ui-portfolio-2-blog-page-3-8d5.json"), "@generated/docusaurus-plugin-content-blog/default/p/erin-ui-portfolio-2-blog-page-3-8d5.json", require.resolveWeak("@generated/docusaurus-plugin-content-blog/default/p/erin-ui-portfolio-2-blog-page-3-8d5.json")],
   "36994c47": [() => import(/* webpackChunkName: "36994c47" */ "@generated/docusaurus-plugin-content-blog/default/__plugin.json"), "@generated/docusaurus-plugin-content-blog/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-blog/default/__plugin.json")],
   "393be207": [() => import(/* webpackChunkName: "393be207" */ "@site/src/pages/markdown-page.md"), "@site/src/pages/markdown-page.md", require.resolveWeak("@site/src/pages/markdown-page.md")],
   "48dfbbdd": [() => import(/* webpackChunkName: "48dfbbdd" */ "@site/blog/affordancesAndSignifiersII.md?truncated=true"), "@site/blog/affordancesAndSignifiersII.md?truncated=true", require.resolveWeak("@site/blog/affordancesAndSignifiersII.md?truncated=true")],
@@ -31,6 +32,7 @@ export default {
   "66ce4bb1": [() => import(/* webpackChunkName: "66ce4bb1" */ "@site/blog/summitReflection.md"), "@site/blog/summitReflection.md", require.resolveWeak("@site/blog/summitReflection.md")],
   "6875c492": [() => import(/* webpackChunkName: "6875c492" */ "@theme/BlogTagsPostsPage"), "@theme/BlogTagsPostsPage", require.resolveWeak("@theme/BlogTagsPostsPage")],
   "77d6f6ee": [() => import(/* webpackChunkName: "77d6f6ee" */ "@site/blog/designRules.md?truncated=true"), "@site/blog/designRules.md?truncated=true", require.resolveWeak("@site/blog/designRules.md?truncated=true")],
+  "7aeb0d3a": [() => import(/* webpackChunkName: "7aeb0d3a" */ "@site/blog/designInterviews.md"), "@site/blog/designInterviews.md", require.resolveWeak("@site/blog/designInterviews.md")],
   "7b8ebb02": [() => import(/* webpackChunkName: "7b8ebb02" */ "@site/blog/colorsI.md"), "@site/blog/colorsI.md", require.resolveWeak("@site/blog/colorsI.md")],
   "814f3328": [() => import(/* webpackChunkName: "814f3328" */ "~blog/default/blog-post-list-prop-default.json"), "~blog/default/blog-post-list-prop-default.json", require.resolveWeak("~blog/default/blog-post-list-prop-default.json")],
   "8491538a": [() => import(/* webpackChunkName: "8491538a" */ "@site/blog/schneidermanAndInfoOrg.md"), "@site/blog/schneidermanAndInfoOrg.md", require.resolveWeak("@site/blog/schneidermanAndInfoOrg.md")],
@@ -63,4 +65,5 @@ export default {
   "e3141be8": [() => import(/* webpackChunkName: "e3141be8" */ "@site/blog/inclusiveDesign1.md?truncated=true"), "@site/blog/inclusiveDesign1.md?truncated=true", require.resolveWeak("@site/blog/inclusiveDesign1.md?truncated=true")],
   "e4e2cdb3": [() => import(/* webpackChunkName: "e4e2cdb3" */ "@site/blog/summitReflection.md?truncated=true"), "@site/blog/summitReflection.md?truncated=true", require.resolveWeak("@site/blog/summitReflection.md?truncated=true")],
   "ed34ac0c": [() => import(/* webpackChunkName: "ed34ac0c" */ "@site/blog/debriefingUserTests.md?truncated=true"), "@site/blog/debriefingUserTests.md?truncated=true", require.resolveWeak("@site/blog/debriefingUserTests.md?truncated=true")],
+  "f3315070": [() => import(/* webpackChunkName: "f3315070" */ "@site/blog/designInterviews.md?truncated=true"), "@site/blog/designInterviews.md?truncated=true", require.resolveWeak("@site/blog/designInterviews.md?truncated=true")],
   "fa2fd840": [() => import(/* webpackChunkName: "fa2fd840" */ "@site/blog/affordancesAndSignifiersII.md"), "@site/blog/affordancesAndSignifiersII.md", require.resolveWeak("@site/blog/affordancesAndSignifiersII.md")],};
