@@ -18,14 +18,6 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}></div>
-        <h3>Blog Posts</h3>
-        <br></br>
-        <Link
-          className="button button--secondary button--lg"
-          to="/blog/summitReflection"
-        >
-          Most Recent Blog Post
-        </Link>
       </div>
     </header>
   );

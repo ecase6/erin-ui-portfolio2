@@ -3,7 +3,7 @@
   "permalink": "/erin-ui-portfolio2/about-me",
   "source": "@site/src/pages/about-me.md",
   "title": "About Me",
-  "description": "Welcome to my portfolio!",
+  "description": "My Image",
   "frontMatter": {
     "title": "About Me",
     "slug": "/about-me"

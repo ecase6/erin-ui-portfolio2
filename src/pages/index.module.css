@@ -1,10 +1,5 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
-  padding: 4rem 0;
+  padding: 2rem 0; /* Reduce vertical padding to make the header shorter */
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -12,7 +7,8 @@
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 1.5rem 0; /* Adjust padding for smaller screens */
+    min-height: 150px; /* Optional: Shorter height for smaller screens */
   }
 }
 
