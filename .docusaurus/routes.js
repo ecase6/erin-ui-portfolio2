@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog',
-    component: ComponentCreator('/erin-ui-portfolio2/blog', '719'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog', '14c'),
     exact: true
   },
   {
@@ -144,7 +144,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/freeform',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform', '176'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform', '4e6'),
     exact: true
   },
   {

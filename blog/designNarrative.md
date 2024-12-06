@@ -1,15 +1,22 @@
 ---
 title: Design Evolution Narrative
 slug: /designNarrative
-date: 2024-12-02T15:30:00Z
+date: 2024-12-13T15:30:00Z
 tags: [freeform]
 ---
 
 # Design Evolution Narrative
+The following narrative describes the steps that went into designing an application called *Crafty*. 
 
 **Part 1: The Idea**
 
-When brainstorming what application I should create and design, I chose the idea that’s always been in the front of my mind: a Craft/DIY organizer. Ever since I can remember, I’ve loved creating. Knitting, sewing, painting, sculpting – you name it! I enjoy it all. I got this passion for creating from my mom, who also loves to craft and create in her free time. In fact, in my mom’s house (and my childhood home), we have a whole room dedicated to crafts and crafting materials. While this space was the source of many fond memories for the both of us, the organization of the space has always been a bit of a problem. We had so many things in there and so many opportunities that it was hard to keep track of what we had and what we wanted to create. I have always wished there was a tool to help with this problem. So, I decided to design one! I worked alone on this project to design a desktop prototype for a DIY/Craft Organization Solution, called Crafty. Ideally, this application would be available through mobile devices as well, but I decided to focus solely on a desktop application for now, as that’s what I prefer to use most of the time when I’m trying to plan/organize things. This application would not only be useful to my mom and I, but to creators all around the world, as this organizational problem I described is a common one for many people. 
+When brainstorming what application I should create and design, I chose the idea that’s always been in the front of my mind: a Craft/DIY organizer. Ever since I can remember, I’ve loved creating. Knitting, sewing, painting, sculpting – you name it! I enjoy it all. I got this passion for creating from my mom, who also loves to craft and create in her free time. In fact, in my mom’s house (and my childhood home), we have a whole room dedicated to crafts and crafting materials. Below is just a glimpse of it.
+
+<div class="resized-image">
+![Error getting image](/img/craftRoom.png)
+</div>
+
+While this space was the source of many fond memories for the both of us, the organization of the space has always been a bit of a problem. We had so many things in there and so many potential projects to make that it was hard to keep track of what we had and what we wanted to create. I have always wished there was a tool to help with this problem. So, I decided to design one! I worked alone on this project to design a desktop prototype for a DIY/Craft Organization Solution, called *Crafty*. Ideally, this application would be available through mobile devices as well, but I decided to focus solely on a desktop application for now, as that’s what I prefer to use most of the time when I’m trying to plan/organize things. This application would not only be useful to my mom and I, but to creators all around the world, as this organizational problem I described is a common one for many people. 
 
 Once I decided on this idea, the next step was to think through the details: what features are important, what should it convey, what styles would be best, etc. To help work through these questions, one method I used was creating a story about a hypothetical person who would benefit from this application. A summarized version of this story is as follows: 
 
@@ -26,13 +33,21 @@ Another method that I used to determine the details of the app was to come up wi
 
 My next step was to start making some designs. The very first designs I created were by-hand, with regular-old pen and paper.
 
+<div class="resized-image">
 ![Error getting image](/img/flowchartSketch.png)
+</div>
 The goal of the sketch above was to determine the screens/modals I would need and how they would work together for navigation. 
 
+
+<div class="resized-image">
 ![Error getting image](/img/pagesSketch.png)
+</div>
 The above sketch is an example of a couple of pages/components I sketched out to get a rough idea of what the mockups might look like. These don’t include all of the details I had in mind, as it was a lot harder and more time-consuming to sketch designs by hand than I anticipated! 
 
+
+<div class="resized-image">
 ![Error getting image](/img/firstCard.png)
+</div>
 The above screenshot is from the earliest version of Figma mockups. This was the design for a “project card” (when the user clicks on a project, this is the detailed view that would be shown). 
 
 A lot ended up changing from these sketches/designs to my final mockups, which you will see further below.

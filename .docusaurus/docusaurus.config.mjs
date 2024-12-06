@@ -26,7 +26,9 @@ export default {
       {
         "docs": false,
         "blog": {
-          "showReadingTime": true
+          "showReadingTime": true,
+          "blogSidebarTitle": "All posts",
+          "blogSidebarCount": "ALL"
         },
         "theme": {
           "customCss": "/Users/erincase/Documents/GitHub/erin-ui-portfolio2/src/css/custom.css"
