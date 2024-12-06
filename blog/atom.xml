@@ -2,58 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ecase6.github.io/erin-ui-portfolio2/blog</id>
     <title>Erin's UI Portfolio Blog</title>
-    <updated>2024-12-03T15:30:00.000Z</updated>
+    <updated>2024-12-13T15:30:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ecase6.github.io/erin-ui-portfolio2/blog"/>
     <subtitle>Erin's UI Portfolio Blog</subtitle>
     <entry>
-        <title type="html"><![CDATA[Design Interviews]]></title>
-        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/designInterviews</id>
-        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/designInterviews"/>
-        <updated>2024-12-03T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the videos that I watched was called “UX/UI Interview Questions with Answers & Tips! (from a Google UX Designer)” by Ricardo Hernandez Perez, who is a UI Designer at Google. In this video, he shared some tips for interviewing for UI/UX positions, as well as some common questions that are asked. He explained that talking about the things that make you unique is powerful. I think this is good advice when interviewing for any role, as it’s good to set yourself apart from other candidates. Some of the common questions that might be asked in interviews are as follows:]]></summary>
-        <content type="html"><![CDATA[<p>One of the videos that I watched was called “UX/UI Interview Questions with Answers &amp; Tips! (from a Google UX Designer)” by Ricardo Hernandez Perez, who is a UI Designer at Google. In this video, he shared some tips for interviewing for UI/UX positions, as well as some common questions that are asked. He explained that talking about the things that make you unique is powerful. I think this is good advice when interviewing for any role, as it’s good to set yourself apart from other candidates. Some of the common questions that might be asked in interviews are as follows:</p>
-<ul>
-<li>
-<p>What is your design process?</p>
-</li>
-<li>
-<p>Walk us through a project</p>
-<ul>
-<li>
-<p>What would you have done differently?</p>
-</li>
-<li>
-<p>What were the biggest challenges?</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Describe a situation where someone disagreed about your design</p>
-</li>
-<li>
-<p>How do you incorporate user research?</p>
-</li>
-<li>
-<p>How do you use data to inform your designs?</p>
-</li>
-<li>
-<p>How would you work on a project where there is ambiguity?</p>
-</li>
-</ul>
-<p>The biggest takeaway that I found from his explanation of how to answer these quesitons was that it’s helpful to have real experiences in mind. Preparing a narrative will not only help you answer the questions, but it will also help the interviewer get to know you better and understand the unique experiences you’ve had.</p>
-<p>While this video was specifically for UI/UX interviews, I think that a lot of the advice and main takeaways are the same for other interviews, especially software engineering interviews. While the technical questions will be different, having unique experiences and stories to share would be helpful when interviewing for that role as well.</p>
-<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/interview-6f4c7a5dc14a7a0a56f04d0e9968201e.jpeg" width="5760" height="3840" class="img_ev3q"></p>]]></content>
-        <category label="FreeForm" term="FreeForm"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Design Evolution Narrative]]></title>
         <id>https://ecase6.github.io/erin-ui-portfolio2/blog/designNarrative</id>
         <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/designNarrative"/>
-        <updated>2024-12-02T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Part 1: The Idea]]></summary>
-        <content type="html"><![CDATA[<p><strong>Part 1: The Idea</strong></p>
-<p>When brainstorming what application I should create and design, I chose the idea that’s always been in the front of my mind: a Craft/DIY organizer. Ever since I can remember, I’ve loved creating. Knitting, sewing, painting, sculpting – you name it! I enjoy it all. I got this passion for creating from my mom, who also loves to craft and create in her free time. In fact, in my mom’s house (and my childhood home), we have a whole room dedicated to crafts and crafting materials. While this space was the source of many fond memories for the both of us, the organization of the space has always been a bit of a problem. We had so many things in there and so many opportunities that it was hard to keep track of what we had and what we wanted to create. I have always wished there was a tool to help with this problem. So, I decided to design one! I worked alone on this project to design a desktop prototype for a DIY/Craft Organization Solution, called Crafty. Ideally, this application would be available through mobile devices as well, but I decided to focus solely on a desktop application for now, as that’s what I prefer to use most of the time when I’m trying to plan/organize things. This application would not only be useful to my mom and I, but to creators all around the world, as this organizational problem I described is a common one for many people.</p>
+        <updated>2024-12-13T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The following narrative describes the steps that went into designing an application called Crafty.]]></summary>
+        <content type="html"><![CDATA[<p>The following narrative describes the steps that went into designing an application called <em>Crafty</em>.</p>
+<p><strong>Part 1: The Idea</strong></p>
+<p>When brainstorming what application I should create and design, I chose the idea that’s always been in the front of my mind: a Craft/DIY organizer. Ever since I can remember, I’ve loved creating. Knitting, sewing, painting, sculpting – you name it! I enjoy it all. I got this passion for creating from my mom, who also loves to craft and create in her free time. In fact, in my mom’s house (and my childhood home), we have a whole room dedicated to crafts and crafting materials. Below is just a glimpse of it.</p>
+<div class="resized-image"><p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/craftRoom-f02913709e70a0145d8a869ec7d3a621.png" width="552" height="744" class="img_ev3q"></p></div>
+<p>While this space was the source of many fond memories for the both of us, the organization of the space has always been a bit of a problem. We had so many things in there and so many potential projects to make that it was hard to keep track of what we had and what we wanted to create. I have always wished there was a tool to help with this problem. So, I decided to design one! I worked alone on this project to design a desktop prototype for a DIY/Craft Organization Solution, called <em>Crafty</em>. Ideally, this application would be available through mobile devices as well, but I decided to focus solely on a desktop application for now, as that’s what I prefer to use most of the time when I’m trying to plan/organize things. This application would not only be useful to my mom and I, but to creators all around the world, as this organizational problem I described is a common one for many people.</p>
 <p>Once I decided on this idea, the next step was to think through the details: what features are important, what should it convey, what styles would be best, etc. To help work through these questions, one method I used was creating a story about a hypothetical person who would benefit from this application. A summarized version of this story is as follows:</p>
 <p><em>Late at night, Paul is about to sleep when inspiration strikes: a macramé plant hanger. He’s eager to start but the excitement is followed by concern – does he have enough rope? Digging through craft bins might wake his roommates, so he turns to his craft organizer app. Opening the "Materials Inventory," Paul quickly checks his supplies. The app confirms he has enough rope, saving him from a midnight search. Relieved, he logs a reminder in the "Current Projects" section to revisit another unfinished piece before starting this new one. Using the app’s time tracker, he estimates how long the hanger will take and sets a goal for tomorrow. Satisfied, Paul sets his laptop aside, confident his creativity is under control. Thanks to the app, he can rest easy, ready to craft stress-free in the morning.</em></p>
 <p>Writing this story revealed some key things that I should keep in mind while designing the app.</p>
@@ -65,12 +28,12 @@
 <p>Another method that I used to determine the details of the app was to come up with 2 main values that the app should embody. I decided that these would be <strong>organization</strong> and <strong>playfulness</strong>. I chose organization because it’s important that users feel in control of their materials, projects, and time, all from one place. For crafters, staying organized can make the difference between enjoying their projects and feeling overwhelmed. By making information easy to find and access, the UI helps crafters avoid wasting time, track what they have, and manage their creative process smoothly. I chose playfulness because crafting is an inherently creative process, so the app should reflect that energy. It’s not just about completing tasks, it’s about making the journey enjoyable and inspiring creativity. Adding playful elements keeps the experience lighthearted and encourages users to stay engaged.</p>
 <p><strong>Part 2: Early Designs</strong></p>
 <p>My next step was to start making some designs. The very first designs I created were by-hand, with regular-old pen and paper.</p>
-<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/flowchartSketch-296e28d85d15c98070c5a942d3c087a5.png" width="1398" height="770" class="img_ev3q">
-The goal of the sketch above was to determine the screens/modals I would need and how they would work together for navigation.</p>
-<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/pagesSketch-17d2e632fcc68567ecd6cca9be3698c9.png" width="950" height="1268" class="img_ev3q">
-The above sketch is an example of a couple of pages/components I sketched out to get a rough idea of what the mockups might look like. These don’t include all of the details I had in mind, as it was a lot harder and more time-consuming to sketch designs by hand than I anticipated!</p>
-<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/firstCard-284459d916949e93200346086ce9a00d.png" width="598" height="630" class="img_ev3q">
-The above screenshot is from the earliest version of Figma mockups. This was the design for a “project card” (when the user clicks on a project, this is the detailed view that would be shown).</p>
+<div class="resized-image"><p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/flowchartSketch-296e28d85d15c98070c5a942d3c087a5.png" width="1398" height="770" class="img_ev3q"></p></div>
+<p>The goal of the sketch above was to determine the screens/modals I would need and how they would work together for navigation.</p>
+<div class="resized-image"><p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/pagesSketch-17d2e632fcc68567ecd6cca9be3698c9.png" width="950" height="1268" class="img_ev3q"></p></div>
+<p>The above sketch is an example of a couple of pages/components I sketched out to get a rough idea of what the mockups might look like. These don’t include all of the details I had in mind, as it was a lot harder and more time-consuming to sketch designs by hand than I anticipated!</p>
+<div class="resized-image"><p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/firstCard-284459d916949e93200346086ce9a00d.png" width="598" height="630" class="img_ev3q"></p></div>
+<p>The above screenshot is from the earliest version of Figma mockups. This was the design for a “project card” (when the user clicks on a project, this is the detailed view that would be shown).</p>
 <p>A lot ended up changing from these sketches/designs to my final mockups, which you will see further below.</p>
 <p>After doing some sketches, it was time to take a stab at creating a design system. This concept was something that seemed very simple and easy to me before starting, but once I started, I found it was not as simple as I would have hoped! When making a design system from scratch, there are so many choices that need to be made: colors, fonts, buttons, etc. It took me a long time to make these decisions.</p>
 <div style="border:1px solid rgba(0, 0, 0, 0.1);width:800px;height:450px"><iframe width="800" height="450" src="https://embed.figma.com/design/018Q63YKHEEpRSEdmZALaj/FinalProject?node-id=0-1&amp;embed-host=share" allowfullscreen=""></iframe></div>
@@ -120,6 +83,46 @@ The above screenshot is from the earliest version of Figma mockups. This was the
 <p>As stated previously, the two values I deemed most important for this app were <strong>organization</strong> and <strong>playfulness</strong>. I believe this final version of the app embodies those values. It is straightforward, simple, and easy to use and navigate. It is also colorful and fun, and it allows the user to be creative and playful by uploading images, typing descriptions, and adding notes.</p>
 <p>I had such a fun time creating these mockups and prototypes. I wish I had more time to perfect and improve it. I would have loved to create more playful components, like snackbars, animations, and fun copy text if I had more time. I would’ve also liked to replace the gray image placeholders with real images – so people could better see the vision and potential of the app.</p>
 <p>All in all, I learned a lot about UI/UX through this project, and I’m thankful to all of the people who helped me along the way.</p>]]></content>
+        <category label="FreeForm" term="FreeForm"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Interviews]]></title>
+        <id>https://ecase6.github.io/erin-ui-portfolio2/blog/designInterviews</id>
+        <link href="https://ecase6.github.io/erin-ui-portfolio2/blog/designInterviews"/>
+        <updated>2024-12-03T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the videos that I watched was called “UX/UI Interview Questions with Answers & Tips! (from a Google UX Designer)” by Ricardo Hernandez Perez, who is a UI Designer at Google. In this video, he shared some tips for interviewing for UI/UX positions, as well as some common questions that are asked. He explained that talking about the things that make you unique is powerful. I think this is good advice when interviewing for any role, as it’s good to set yourself apart from other candidates. Some of the common questions that might be asked in interviews are as follows:]]></summary>
+        <content type="html"><![CDATA[<p>One of the videos that I watched was called “UX/UI Interview Questions with Answers &amp; Tips! (from a Google UX Designer)” by Ricardo Hernandez Perez, who is a UI Designer at Google. In this video, he shared some tips for interviewing for UI/UX positions, as well as some common questions that are asked. He explained that talking about the things that make you unique is powerful. I think this is good advice when interviewing for any role, as it’s good to set yourself apart from other candidates. Some of the common questions that might be asked in interviews are as follows:</p>
+<ul>
+<li>
+<p>What is your design process?</p>
+</li>
+<li>
+<p>Walk us through a project</p>
+<ul>
+<li>
+<p>What would you have done differently?</p>
+</li>
+<li>
+<p>What were the biggest challenges?</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Describe a situation where someone disagreed about your design</p>
+</li>
+<li>
+<p>How do you incorporate user research?</p>
+</li>
+<li>
+<p>How do you use data to inform your designs?</p>
+</li>
+<li>
+<p>How would you work on a project where there is ambiguity?</p>
+</li>
+</ul>
+<p>The biggest takeaway that I found from his explanation of how to answer these quesitons was that it’s helpful to have real experiences in mind. Preparing a narrative will not only help you answer the questions, but it will also help the interviewer get to know you better and understand the unique experiences you’ve had.</p>
+<p>While this video was specifically for UI/UX interviews, I think that a lot of the advice and main takeaways are the same for other interviews, especially software engineering interviews. While the technical questions will be different, having unique experiences and stories to share would be helpful when interviewing for that role as well.</p>
+<p><img decoding="async" loading="lazy" alt="Error getting image" src="https://ecase6.github.io/erin-ui-portfolio2/assets/images/interview-6f4c7a5dc14a7a0a56f04d0e9968201e.jpeg" width="5760" height="3840" class="img_ev3q"></p>]]></content>
         <category label="FreeForm" term="FreeForm"/>
     </entry>
     <entry>
