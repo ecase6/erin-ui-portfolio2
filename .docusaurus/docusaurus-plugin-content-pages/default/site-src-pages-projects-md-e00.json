@@ -3,7 +3,7 @@
   "permalink": "/erin-ui-portfolio2/projects",
   "source": "@site/src/pages/projects.md",
   "title": "Projects",
-  "description": "The following are embedded Figma prototypes that I designed, with Prototype 4 being the most recent version (and final version) and Design System being the first iteration of design. Check out my Design Narrative to read more about the project.",
+  "description": "The following are embedded Figma prototypes that I designed for the app Crafty, with Prototype 4 being the most recent version (and final version) and Design System being the first iteration of design. Check out my Design Narrative to read more about the project.",
   "frontMatter": {
     "title": "Projects",
     "slug": "/projects"

@@ -218,6 +218,17 @@
     "sidebar": "814f3328",
     "content": "038d4968"
   },
+  "/erin-ui-portfolio2/blog/makingOfMyPortfolio-898": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "6f897d90"
+  },
   "/erin-ui-portfolio2/blog/mockups-1d4": {
     "__comp": "ccc49370",
     "__context": {
@@ -280,7 +291,7 @@
     ],
     "__props": "e111f0b7"
   },
-  "/erin-ui-portfolio2/blog/page/3-0e7": {
+  "/erin-ui-portfolio2/blog/page/3-8fb": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -289,6 +300,9 @@
     "items": [
       {
         "content": "63ed8a48"
+      },
+      {
+        "content": "be19ff01"
       }
     ],
     "__props": "2c944b27"
@@ -406,7 +420,7 @@
     ],
     "__props": "c217c26c"
   },
-  "/erin-ui-portfolio2/blog/tags/freeform/page/2-db2": {
+  "/erin-ui-portfolio2/blog/tags/freeform/page/2-447": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -424,6 +438,9 @@
       },
       {
         "content": "48dfbbdd"
+      },
+      {
+        "content": "be19ff01"
       }
     ],
     "__props": "59a76d78"

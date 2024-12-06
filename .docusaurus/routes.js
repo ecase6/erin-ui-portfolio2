@@ -93,6 +93,11 @@ export default [
     exact: true
   },
   {
+    path: '/erin-ui-portfolio2/blog/makingOfMyPortfolio',
+    component: ComponentCreator('/erin-ui-portfolio2/blog/makingOfMyPortfolio', '898'),
+    exact: true
+  },
+  {
     path: '/erin-ui-portfolio2/blog/mockups',
     component: ComponentCreator('/erin-ui-portfolio2/blog/mockups', '1d4'),
     exact: true
@@ -109,7 +114,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/page/3',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/page/3', '0e7'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/page/3', '8fb'),
     exact: true
   },
   {
@@ -149,7 +154,7 @@ export default [
   },
   {
     path: '/erin-ui-portfolio2/blog/tags/freeform/page/2',
-    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform/page/2', 'db2'),
+    component: ComponentCreator('/erin-ui-portfolio2/blog/tags/freeform/page/2', '447'),
     exact: true
   },
   {

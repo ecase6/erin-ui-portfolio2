@@ -4,7 +4,7 @@ slug: /projects
 ---
 
 # Projects
-The following are embedded Figma prototypes that I designed, with *Prototype 4* being the most recent version (and *final* version) and *Design System* being the first iteration of design. Check out my [Design Narrative](/blog/designNarrative) to read more about the project. 
+The following are embedded Figma prototypes that I designed for the app *Crafty*, with *Prototype 4* being the most recent version (and *final* version) and *Design System* being the first iteration of design. Check out my [Design Narrative](/blog/designNarrative) to read more about the project. 
 
 **Prototype 4:**
 
